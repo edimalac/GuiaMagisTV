@@ -1,0 +1,97 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.1.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="Canal Space (Bolivia)">
+    <display-name lang="es">Space</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <programme start="20210524010400 +0000" stop="20210524024000 +0000" channel="Canal Space (Bolivia)">
+    <title lang="es">Clínica zombie</title>
+  </programme>
+  <programme start="20210524024000 +0000" stop="20210524040900 +0000" channel="Canal Space (Bolivia)">
+    <title lang="es">Desastre el último apocalipsis zombie</title>
+  </programme>
+  <programme start="20210524040900 +0000" stop="20210524054200 +0000" channel="Canal Space (Bolivia)">
+    <title lang="es">El ataque del tiburón de tres cabezas</title>
+  </programme>
+  <programme start="20210524054200 +0000" stop="20210524062000 +0000" channel="Canal Space (Bolivia)">
+    <title lang="es">Hollywood one on one</title>
+  </programme>
+  <programme start="20210524062000 +0000" stop="20210524070000 +0000" channel="Canal Space (Bolivia)">
+    <title lang="es">Hollywood one on one</title>
+  </programme>
+  <programme start="20210524070000 +0000" stop="20210524083900 +0000" channel="Canal Space (Bolivia)">
+    <title lang="es">Borning Más rápido, más peligroso</title>
+  </programme>
+  <programme start="20210524083900 +0000" stop="20210524103200 +0000" channel="Canal Space (Bolivia)">
+    <title lang="es">Cirque du Freak el aprendiz de vampiro</title>
+  </programme>
+  <programme start="20210524103200 +0000" stop="20210524123600 +0000" channel="Canal Space (Bolivia)">
+    <title lang="es">Romeo Debe Morir</title>
+  </programme>
+  <programme start="20210524123600 +0000" stop="20210524143300 +0000" channel="Canal Space (Bolivia)">
+    <title lang="es">El Rey Escorpión 4 La búsqueda del poder</title>
+  </programme>
+  <programme start="20210524143300 +0000" stop="20210524163900 +0000" channel="Canal Space (Bolivia)">
+    <title lang="es">S.W.A.T. Unidad Especial</title>
+  </programme>
+  <programme start="20210524163900 +0000" stop="20210524183900 +0000" channel="Canal Space (Bolivia)">
+    <title lang="es">Dante's Peak la furia de la montaña</title>
+  </programme>
+  <programme start="20210524183900 +0000" stop="20210524205500 +0000" channel="Canal Space (Bolivia)">
+    <title lang="es">El Rey Arturo: La Leyenda de la Espada</title>
+  </programme>
+  <programme start="20210524205500 +0000" stop="20210524230000 +0000" channel="Canal Space (Bolivia)">
+    <title lang="es">La Quinta Ola</title>
+  </programme>
+  <programme start="20210524230000 +0000" stop="20210525011200 +0000" channel="Canal Space (Bolivia)">
+    <title lang="es">Kong: La Isla Calavera</title>
+  </programme>
+  <programme start="20210525011200 +0000" stop="20210525025500 +0000" channel="Canal Space (Bolivia)">
+    <title lang="es">AEW - All Elite Wrestling</title>
+  </programme>
+  <programme start="20210525025500 +0000" stop="20210525041500 +0000" channel="Canal Space (Bolivia)">
+    <title lang="es">Violencia aleatoria</title>
+  </programme>
+  <programme start="20210525041500 +0000" stop="20210525054700 +0000" channel="Canal Space (Bolivia)">
+    <title lang="es">El ataque del tiburón de seis cabezas</title>
+  </programme>
+  <programme start="20210525054700 +0000" stop="20210525062500 +0000" channel="Canal Space (Bolivia)">
+    <title lang="es">Hollywood one on one</title>
+  </programme>
+  <programme start="20210525062500 +0000" stop="20210525070000 +0000" channel="Canal Space (Bolivia)">
+    <title lang="es">Hollywood one on one</title>
+  </programme>
+  <programme start="20210525070000 +0000" stop="20210525085700 +0000" channel="Canal Space (Bolivia)">
+    <title lang="es">S.W.A.T. Unidad Especial</title>
+  </programme>
+  <programme start="20210525085700 +0000" stop="20210525104800 +0000" channel="Canal Space (Bolivia)">
+    <title lang="es">Dante's Peak la furia de la montaña</title>
+  </programme>
+  <programme start="20210525104800 +0000" stop="20210525124800 +0000" channel="Canal Space (Bolivia)">
+    <title lang="es">La Quinta Ola</title>
+  </programme>
+  <programme start="20210525124800 +0000" stop="20210525145200 +0000" channel="Canal Space (Bolivia)">
+    <title lang="es">Kong: La Isla Calavera</title>
+  </programme>
+  <programme start="20210525145200 +0000" stop="20210525165000 +0000" channel="Canal Space (Bolivia)">
+    <title lang="es">El gran maestro</title>
+  </programme>
+  <programme start="20210525165000 +0000" stop="20210525185500 +0000" channel="Canal Space (Bolivia)">
+    <title lang="es">El Gran Maestro 2</title>
+  </programme>
+  <programme start="20210525185500 +0000" stop="20210525205600 +0000" channel="Canal Space (Bolivia)">
+    <title lang="es">El gran maestro 3</title>
+  </programme>
+  <programme start="20210525205600 +0000" stop="20210525230000 +0000" channel="Canal Space (Bolivia)">
+    <title lang="es">El gran maestro 4</title>
+  </programme>
+  <programme start="20210525230000 +0000" stop="20210525233000 +0000" channel="Canal Space (Bolivia)">
+    <title lang="es">In treatment</title>
+  </programme>
+  <programme start="20210525233000 +0000" stop="20210525235600 +0000" channel="Canal Space (Bolivia)">
+    <title lang="es">In treatment</title>
+  </programme>
+  <programme start="20210525235600 +0000" stop="20210526020500 +0000" channel="Canal Space (Bolivia)">
+    <title lang="es">Romeo Debe Morir</title>
+  </programme>
+</tv>
