@@ -1,0 +1,1326 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="m3u4u" generator-info-url="https://m3u4u.com/">
+<channel id="C5N.ar">
+<display-name>C5N HD</display-name>
+</channel>
+<channel id="DeporTV.ar">
+<display-name>DEPORTV HD</display-name>
+</channel>
+<channel id="Elnueve.ar">
+<display-name>El Nueve</display-name>
+</channel>
+<channel id="LNplus.ar">
+<display-name>LN+ HD</display-name>
+</channel>
+<channel id="TyCSports.ar">
+<display-name>TyC Sports HD</display-name>
+</channel>
+<programme start="20210729003000 +0000" stop="20210729020000 +0000" channel="C5N.ar">
+<title lang="es" >Desafío 20.21</title>
+<desc lang="es">Toda la coyuntura política con un amplio despliegue de la información de actualidad.</desc>
+</programme>
+<programme start="20210729020000 +0000" stop="20210729030000 +0000" channel="C5N.ar">
+<title lang="es" >Recalculando</title>
+<desc lang="es">Un espacio que acerca las noticias sociales y políticas de la actualidad, con el debate de todo el acontecer del país.</desc>
+</programme>
+<programme start="20210729030000 +0000" stop="20210729033000 +0000" channel="C5N.ar">
+<title lang="es" >Resumen de medianoche</title>
+<desc lang="es">Un resumen de las noticias más relevantes del día.</desc>
+</programme>
+<programme start="20210729033000 +0000" stop="20210729040000 +0000" channel="C5N.ar">
+<title lang="es" >Imagen de trabajo</title>
+<desc lang="es">Un programa que difunde las actividades que realiza El Sindicato Argentino de Televisión, Servicios Audiovisuales, Interactivos y de Datos.</desc>
+</programme>
+<programme start="20210729040000 +0000" stop="20210729050000 +0000" channel="C5N.ar">
+<title lang="es" >Hacete cargo</title>
+<desc lang="es">Una invitación para quedarse con todo aquello que parece insignificante, pero que no es menos importante para lo espiritual, para el alma y para vivir mejor sin perder las ganas.</desc>
+</programme>
+<programme start="20210729050000 +0000" stop="20210729063000 +0000" channel="C5N.ar">
+<title lang="es" >Minuto uno</title>
+<desc lang="es">Un programa con las noticias más importantes y el análisis a profundidad, además de entrevistas y reportajes de interés público.</desc>
+</programme>
+<programme start="20210729063000 +0000" stop="20210729073000 +0000" channel="C5N.ar">
+<title lang="es" >Recalculando</title>
+<desc lang="es">Un espacio que acerca las noticias sociales y políticas de la actualidad, con el debate de todo el acontecer del país.</desc>
+</programme>
+<programme start="20210729073000 +0000" stop="20210729080000 +0000" channel="C5N.ar">
+<title lang="es" >Resumen de medianoche</title>
+<desc lang="es">Un resumen de las noticias más relevantes del día.</desc>
+</programme>
+<programme start="20210729080000 +0000" stop="20210729090000 +0000" channel="C5N.ar">
+<title lang="es" >Bien temprano</title>
+<desc lang="es">Las noticias más destacadas para iniciar el día bien informado.</desc>
+</programme>
+<programme start="20210729090000 +0000" stop="20210729120000 +0000" channel="C5N.ar">
+<title lang="es" >Mañanas argentinas</title>
+<desc lang="es">Todo lo que ocurre en Argentina y el mundo. Para estar informado desde la mañana.</desc>
+</programme>
+<programme start="20210729120000 +0000" stop="20210729150000 +0000" channel="C5N.ar">
+<title lang="es" >Argentina en vivo</title>
+<desc lang="es">Programa de información que trae los hechos más importantes de la actualidad argentina.</desc>
+</programme>
+<programme start="20210729150000 +0000" stop="20210729170000 +0000" channel="C5N.ar">
+<title lang="es" >Nos vemos</title>
+<desc lang="es">Programa que presenta los acontecimientos más destacados del día, desde el tránsito hasta el pronóstico meteorológico.</desc>
+</programme>
+<programme start="20210729170000 +0000" stop="20210729200000 +0000" channel="C5N.ar">
+<title lang="es" >Minuto a minuto</title>
+<desc lang="es">Un espacio que ofrece de manera novedosa un repaso por los hechos más trascendentes a nivel nacional e internacional.</desc>
+</programme>
+<programme start="20210729200000 +0000" stop="20210729230000 +0000" channel="C5N.ar">
+<title lang="es" >El diario</title>
+<desc lang="es">Las últimas noticias nacionales e internacionales, con un variado equipo de columnistas.</desc>
+</programme>
+<programme start="20210729230000 +0000" stop="20210730003000 +0000" channel="C5N.ar">
+<title lang="es" >Minuto uno</title>
+<desc lang="es">Un programa con las noticias más importantes y el análisis a profundidad, además de entrevistas y reportajes de interés público.</desc>
+</programme>
+<programme start="20210730003000 +0000" stop="20210730020000 +0000" channel="C5N.ar">
+<title lang="es" >Desafío 20.21</title>
+<desc lang="es">Toda la coyuntura política con un amplio despliegue de la información de actualidad.</desc>
+</programme>
+<programme start="20210730020000 +0000" stop="20210730030000 +0000" channel="C5N.ar">
+<title lang="es" >Sobredosis de sobredosis</title>
+<desc lang="es">Un programa de humor crítico con mucho archivo audiovisual.</desc>
+</programme>
+<programme start="20210730030000 +0000" stop="20210730040000 +0000" channel="C5N.ar">
+<title lang="es" >Resumen de medianoche</title>
+<desc lang="es">Un resumen de las noticias más relevantes del día.</desc>
+</programme>
+<programme start="20210730040000 +0000" stop="20210730043000 +0000" channel="C5N.ar">
+<title lang="es" >Chicas pochocleras</title>
+<desc lang="es">Un ciclo que presenta desde entrevistas a actores consagrados hasta recomendaciones de cine y series.</desc>
+</programme>
+<programme start="20210730043000 +0000" stop="20210730053000 +0000" channel="C5N.ar">
+<title lang="es" >Hacete cargo</title>
+<desc lang="es">Una invitación para quedarse con todo aquello que parece insignificante, pero que no es menos importante para lo espiritual, para el alma y para vivir mejor sin perder las ganas.</desc>
+</programme>
+<programme start="20210730053000 +0000" stop="20210730070000 +0000" channel="C5N.ar">
+<title lang="es" >Minuto uno</title>
+<desc lang="es">Un programa con las noticias más importantes y el análisis a profundidad, además de entrevistas y reportajes de interés público.</desc>
+</programme>
+<programme start="20210730070000 +0000" stop="20210730080000 +0000" channel="C5N.ar">
+<title lang="es" >Resumen de medianoche</title>
+<desc lang="es">Un resumen de las noticias más relevantes del día.</desc>
+</programme>
+<programme start="20210730080000 +0000" stop="20210730090000 +0000" channel="C5N.ar">
+<title lang="es" >Bien temprano</title>
+<desc lang="es">Las noticias más destacadas para iniciar el día bien informado.</desc>
+</programme>
+<programme start="20210730090000 +0000" stop="20210730120000 +0000" channel="C5N.ar">
+<title lang="es" >Mañanas argentinas</title>
+<desc lang="es">Todo lo que ocurre en Argentina y el mundo. Para estar informado desde la mañana.</desc>
+</programme>
+<programme start="20210730120000 +0000" stop="20210730150000 +0000" channel="C5N.ar">
+<title lang="es" >Argentina en vivo</title>
+<desc lang="es">Programa de información que trae los hechos más importantes de la actualidad argentina.</desc>
+</programme>
+<programme start="20210730150000 +0000" stop="20210730170000 +0000" channel="C5N.ar">
+<title lang="es" >Nos vemos</title>
+<desc lang="es">Programa que presenta los acontecimientos más destacados del día, desde el tránsito hasta el pronóstico meteorológico.</desc>
+</programme>
+<programme start="20210730170000 +0000" stop="20210730200000 +0000" channel="C5N.ar">
+<title lang="es" >Minuto a minuto</title>
+<desc lang="es">Un espacio que ofrece de manera novedosa un repaso por los hechos más trascendentes a nivel nacional e internacional.</desc>
+</programme>
+<programme start="20210730200000 +0000" stop="20210730230000 +0000" channel="C5N.ar">
+<title lang="es" >El diario</title>
+<desc lang="es">Las últimas noticias nacionales e internacionales, con un variado equipo de columnistas.</desc>
+</programme>
+<programme start="20210730230000 +0000" stop="20210731010000 +0000" channel="C5N.ar">
+<title lang="es" >Debate abierto</title>
+<desc lang="es">La verdad que hay detrás de las noticias, junto a un amplio debate y entrevistas exclusivas.</desc>
+</programme>
+<programme start="20210731010000 +0000" stop="20210731020000 +0000" channel="C5N.ar">
+<title lang="es" >Esto recién empieza</title>
+<desc lang="es">Un repaso de las noticias más destacadas del día desde una perspectiva económica.</desc>
+</programme>
+<programme start="20210731020000 +0000" stop="20210731030000 +0000" channel="C5N.ar">
+<title lang="es" >El expediente</title>
+<desc lang="es">Un programa que explora los casos judiciales y policiales más importantes.</desc>
+</programme>
+<programme start="20210731030000 +0000" stop="20210731040000 +0000" channel="C5N.ar">
+<title lang="es" >Hacete cargo</title>
+<desc lang="es">Una invitación para quedarse con todo aquello que parece insignificante, pero que no es menos importante para lo espiritual, para el alma y para vivir mejor sin perder las ganas.</desc>
+</programme>
+<programme start="20210731040000 +0000" stop="20210731043000 +0000" channel="C5N.ar">
+<title lang="es" >Alerta verde</title>
+<desc lang="es">Programa dedicado a generar conciencia sobre la realidad del medio ambiente, donde se conocerá toda la información necesaria para ayudar y defender a la naturaleza.</desc>
+</programme>
+<programme start="20210731043000 +0000" stop="20210731050000 +0000" channel="C5N.ar">
+<title lang="es" >C5N música</title>
+<desc lang="es">Un programa de entrevistas a reconocidos artistas internacionales y toda la actualidad del mundo musical.</desc>
+</programme>
+<programme start="20210731050000 +0000" stop="20210731053000 +0000" channel="C5N.ar">
+<title lang="es" >Right now</title>
+<desc lang="es">Entrevistas a distintos artistas, su backstage, segmentos de moda, gastronomía, fitness y espectáculo.</desc>
+</programme>
+<programme start="20210731053000 +0000" stop="20210731060000 +0000" channel="C5N.ar">
+<title lang="es" >Chicas pochocleras</title>
+<desc lang="es">Un ciclo que presenta desde entrevistas a actores consagrados hasta recomendaciones de cine y series.</desc>
+</programme>
+<programme start="20210731060000 +0000" stop="20210731070000 +0000" channel="C5N.ar">
+<title lang="es" >Hacete cargo</title>
+<desc lang="es">Una invitación para quedarse con todo aquello que parece insignificante, pero que no es menos importante para lo espiritual, para el alma y para vivir mejor sin perder las ganas.</desc>
+</programme>
+<programme start="20210731070000 +0000" stop="20210731080000 +0000" channel="C5N.ar">
+<title lang="es" >Esto recién empieza</title>
+<desc lang="es">Un repaso de las noticias más destacadas del día desde una perspectiva económica.</desc>
+</programme>
+<programme start="20210731080000 +0000" stop="20210731090000 +0000" channel="C5N.ar">
+<title lang="es" >El expediente</title>
+<desc lang="es">Un programa que explora los casos judiciales y policiales más importantes.</desc>
+</programme>
+<programme start="20210731090000 +0000" stop="20210731093000 +0000" channel="C5N.ar">
+<title lang="es" >C5N música</title>
+<desc lang="es">Un programa de entrevistas a reconocidos artistas internacionales y toda la actualidad del mundo musical.</desc>
+</programme>
+<programme start="20210731093000 +0000" stop="20210731120000 +0000" channel="C5N.ar">
+<title lang="es" >Bien de sábado</title>
+<desc lang="es">Cobertura informativa a nivel nacional e internacional en la mañanas de los sábado de la mano de los más expertos.</desc>
+</programme>
+<programme start="20210731120000 +0000" stop="20210731160000 +0000" channel="C5N.ar">
+<title lang="es" >Argentina en vivo</title>
+<desc lang="es">Programa de información que trae los hechos más importantes de la actualidad argentina.</desc>
+</programme>
+<programme start="20210731160000 +0000" stop="20210731180000 +0000" channel="C5N.ar">
+<title lang="es" >Remix de noticias</title>
+<desc lang="es">Un programa que reúne las noticias más destacas de la actualidad, la salud, el entretenimiento, la cultura y otras.</desc>
+</programme>
+<programme start="20210731180000 +0000" stop="20210731230000 +0000" channel="C5N.ar">
+<title lang="es" >Nos vemos</title>
+<desc lang="es">Programa que presenta los acontecimientos más destacados del día, desde el tránsito hasta el pronóstico meteorológico.</desc>
+</programme>
+<programme start="20210731230000 +0000" stop="20210801000000 +0000" channel="C5N.ar">
+<title lang="es" >La cocina del gato</title>
+<desc lang="es">Un invitado sorpresa será entrevistado y, además, homenajeado con una comida preparada por el propio entrevistador.</desc>
+</programme>
+<programme start="20210801000000 +0000" stop="20210801020000 +0000" channel="C5N.ar">
+<title lang="es" >Sobredosis de TV</title>
+<desc lang="es">La televisión argentina es puesta bajo la lupa, con un archivo y una mirada crítica que cuenta además con invitados especiales.</desc>
+</programme>
+<programme start="20210801020000 +0000" stop="20210801023000 +0000" channel="C5N.ar">
+<title lang="es" >Right now</title>
+<desc lang="es">Entrevistas a distintos artistas, su backstage, segmentos de moda, gastronomía, fitness y espectáculo.</desc>
+</programme>
+<programme start="20210801023000 +0000" stop="20210801031500 +0000" channel="C5N.ar">
+<title lang="es" >Hacete cargo</title>
+<desc lang="es">Una invitación para quedarse con todo aquello que parece insignificante, pero que no es menos importante para lo espiritual, para el alma y para vivir mejor sin perder las ganas.</desc>
+</programme>
+<programme start="20210801031500 +0000" stop="20210801034500 +0000" channel="C5N.ar">
+<title lang="es" >Chicas pochocleras</title>
+<desc lang="es">Un ciclo que presenta desde entrevistas a actores consagrados hasta recomendaciones de cine y series.</desc>
+</programme>
+<programme start="20210801034500 +0000" stop="20210801040000 +0000" channel="C5N.ar">
+<title lang="es" >Micro Alerta Verde</title>
+<desc lang="es">Programa dedicado a generar conciencia sobre la realidad del medio ambiente, donde se conocerá toda la información necesaria para ayudar y defender a la naturaleza.</desc>
+</programme>
+<programme start="20210801040000 +0000" stop="20210801043000 +0000" channel="C5N.ar">
+<title lang="es" >C5N música</title>
+<desc lang="es">Un programa de entrevistas a reconocidos artistas internacionales y toda la actualidad del mundo musical.</desc>
+</programme>
+<programme start="20210801043000 +0000" stop="20210801050000 +0000" channel="C5N.ar">
+<title lang="es" >Right now</title>
+<desc lang="es">Entrevistas a distintos artistas, su backstage, segmentos de moda, gastronomía, fitness y espectáculo.</desc>
+</programme>
+<programme start="20210801050000 +0000" stop="20210801070000 +0000" channel="C5N.ar">
+<title lang="es" >Sobredosis de TV</title>
+<desc lang="es">La televisión argentina es puesta bajo la lupa, con un archivo y una mirada crítica que cuenta además con invitados especiales.</desc>
+</programme>
+<programme start="20210801070000 +0000" stop="20210801073000 +0000" channel="C5N.ar">
+<title lang="es" >Alerta verde</title>
+<desc lang="es">Programa dedicado a generar conciencia sobre la realidad del medio ambiente, donde se conocerá toda la información necesaria para ayudar y defender a la naturaleza.</desc>
+</programme>
+<programme start="20210801073000 +0000" stop="20210801083000 +0000" channel="C5N.ar">
+<title lang="es" >El expediente</title>
+<desc lang="es">Un programa que explora los casos judiciales y policiales más importantes.</desc>
+</programme>
+<programme start="20210801083000 +0000" stop="20210801084500 +0000" channel="C5N.ar">
+<title lang="es" >Micro Alerta Verde</title>
+<desc lang="es">Programa dedicado a generar conciencia sobre la realidad del medio ambiente, donde se conocerá toda la información necesaria para ayudar y defender a la naturaleza.</desc>
+</programme>
+<programme start="20210801084500 +0000" stop="20210801103000 +0000" channel="C5N.ar">
+<title lang="es" >Hacete cargo</title>
+<desc lang="es">Una invitación para quedarse con todo aquello que parece insignificante, pero que no es menos importante para lo espiritual, para el alma y para vivir mejor sin perder las ganas.</desc>
+</programme>
+<programme start="20210801103000 +0000" stop="20210801183000 +0000" channel="C5N.ar">
+<title lang="es" >Desde el conocimiento</title>
+<desc lang="es"></desc>
+</programme>
+<programme start="20210801183000 +0000" stop="20210802023000 +0000" channel="C5N.ar">
+<title lang="es" >Desde el conocimiento</title>
+<desc lang="es"></desc>
+</programme>
+<programme start="20210729000000 +0000" stop="20210729030000 +0000" channel="DeporTV.ar">
+<title lang="es" >Juegos Olímpicos Tokio 2020</title>
+<desc lang="es">Las actividades de deportistas argentinos en todas las disciplinas, y la mejor cobertura general de los Juegos Olímpicos 2020, con los mejores exponentes del planeta.</desc>
+</programme>
+<programme start="20210729030000 +0000" stop="20210729080000 +0000" channel="DeporTV.ar">
+<title lang="es" >Juegos Olímpicos Tokio 2020</title>
+<desc lang="es">Las actividades de deportistas argentinos en todas las disciplinas, y la mejor cobertura general de los Juegos Olímpicos 2020, con los mejores exponentes del planeta.</desc>
+</programme>
+<programme start="20210729080000 +0000" stop="20210729140000 +0000" channel="DeporTV.ar">
+<title lang="es" >Juegos Olímpicos Tokio 2020</title>
+<desc lang="es">Las actividades de deportistas argentinos en todas las disciplinas, y la mejor cobertura general de los Juegos Olímpicos 2020, con los mejores exponentes del planeta.</desc>
+</programme>
+<programme start="20210729140000 +0000" stop="20210729141500 +0000" channel="DeporTV.ar">
+<title lang="es" >Movete Argentina: Alto rendimiento</title>
+<desc lang="es">Rutinas y ejercicios saludables para que todas las argentinas y los argentinos realicen en sus casas.</desc>
+</programme>
+<programme start="20210729141500 +0000" stop="20210729143000 +0000" channel="DeporTV.ar">
+<title lang="es" >Movete Argentina: Alto rendimiento</title>
+<desc lang="es">Rutinas y ejercicios saludables para que todas las argentinas y los argentinos realicen en sus casas.</desc>
+</programme>
+<programme start="20210729143000 +0000" stop="20210729150000 +0000" channel="DeporTV.ar">
+<title lang="es" >Mentes doradas</title>
+<desc lang="es">La preparación de la jugadora de voleibol cordobesa Yamila Nizetich de cara a los Juegos Olímpicos.</desc>
+</programme>
+<programme start="20210729150000 +0000" stop="20210729151500 +0000" channel="DeporTV.ar">
+<title lang="es" >Sombras en los juegos</title>
+<desc lang="es">La historia de la nadadora siria, que formó parte del equipo de atletas refugiados que fueron representados por la bandera olímpica en los Juegos Olímpicos de 2016 en Río de Janeiro.</desc>
+</programme>
+<programme start="20210729151500 +0000" stop="20210729161500 +0000" channel="DeporTV.ar">
+<title lang="es" >Maraton Man</title>
+<desc lang="es">Acompañando a Raúl Gómez y su pasión por el "running", asistiendo a su superación personal. Raúl tratará de convencer a personajes famosos de que le acompañen en sus aventuras por todo el planeta.</desc>
+</programme>
+<programme start="20210729161500 +0000" stop="20210729163000 +0000" channel="DeporTV.ar">
+<title lang="es" >Sombras en los juegos</title>
+<desc lang="es">Programa especial sobre Abebe Bikila, atleta etíope que fue el primer sudafricano en obtener una medalla dorada en los Juegos Olímpicos.</desc>
+</programme>
+<programme start="20210729163000 +0000" stop="20210729173000 +0000" channel="DeporTV.ar">
+<title lang="es" >Tokyo al día</title>
+<desc lang="es">Informes especiales, actualidad, entrevistas con los deportistas y la preparación de los mismos en los Juegos Olímpicos Tokio 2020.</desc>
+</programme>
+<programme start="20210729173000 +0000" stop="20210729201500 +0000" channel="DeporTV.ar">
+<title lang="es" >Gimnasia Artística</title>
+<desc lang="es">Tercer día de competición del campeonato Panamericano 2021. Del 6 de junio de 2021.</desc>
+</programme>
+<programme start="20210729201500 +0000" stop="20210729210000 +0000" channel="DeporTV.ar">
+<title lang="es" >Mundo Leo</title>
+<desc lang="es">Especial de Lionel Messi en la Copa América.</desc>
+</programme>
+<programme start="20210729210000 +0000" stop="20210729220000 +0000" channel="DeporTV.ar">
+<title lang="es" >Código Tokio: La previa</title>
+<desc lang="es"></desc>
+</programme>
+<programme start="20210729220000 +0000" stop="20210729221500 +0000" channel="DeporTV.ar">
+<title lang="es" >Movete Argentina: Alto rendimiento</title>
+<desc lang="es">Rutinas y ejercicios saludables para que todas las argentinas y los argentinos realicen en sus casas.</desc>
+</programme>
+<programme start="20210729221500 +0000" stop="20210729223000 +0000" channel="DeporTV.ar">
+<title lang="es" >Movete Argentina: Alto rendimiento</title>
+<desc lang="es">Rutinas y ejercicios saludables para que todas las argentinas y los argentinos realicen en sus casas.</desc>
+</programme>
+<programme start="20210729223000 +0000" stop="20210729230000 +0000" channel="DeporTV.ar">
+<title lang="es" >Mentes doradas</title>
+<desc lang="es">Programa especial sobre la yudoca argentina, que nació el 16 de enero de 1986.</desc>
+</programme>
+<programme start="20210729230000 +0000" stop="20210729231500 +0000" channel="DeporTV.ar">
+<title lang="es" >Sombras en los juegos</title>
+<desc lang="es">Programa especial de la atleta estadounidense nacida en Riverdale, Elizabeth "Betty" Robinson.</desc>
+</programme>
+<programme start="20210729231500 +0000" stop="20210729234500 +0000" channel="DeporTV.ar">
+<title lang="es" >Mentes doradas</title>
+<desc lang="es">La preparación de la jugadora de voleibol cordobesa Yamila Nizetich de cara a los Juegos Olímpicos.</desc>
+</programme>
+<programme start="20210729234500 +0000" stop="20210730000000 +0000" channel="DeporTV.ar">
+<title lang="es" >El retrovisor</title>
+<desc lang="es">Programa especial del astro argentino del fútbol mundial, Diego Armando Maradona.</desc>
+</programme>
+<programme start="20210730000000 +0000" stop="20210730030000 +0000" channel="DeporTV.ar">
+<title lang="es" >Juegos Olímpicos Tokio 2020</title>
+<desc lang="es">Las actividades de deportistas argentinos en todas las disciplinas, y la mejor cobertura general de los Juegos Olímpicos 2020, con los mejores exponentes del planeta.</desc>
+</programme>
+<programme start="20210730030000 +0000" stop="20210730080000 +0000" channel="DeporTV.ar">
+<title lang="es" >Juegos Olímpicos Tokio 2020</title>
+<desc lang="es">Las actividades de deportistas argentinos en todas las disciplinas, y la mejor cobertura general de los Juegos Olímpicos 2020, con los mejores exponentes del planeta.</desc>
+</programme>
+<programme start="20210730080000 +0000" stop="20210730140000 +0000" channel="DeporTV.ar">
+<title lang="es" >Juegos Olímpicos Tokio 2020</title>
+<desc lang="es">Las actividades de deportistas argentinos en todas las disciplinas, y la mejor cobertura general de los Juegos Olímpicos 2020, con los mejores exponentes del planeta.</desc>
+</programme>
+<programme start="20210730140000 +0000" stop="20210730141500 +0000" channel="DeporTV.ar">
+<title lang="es" >Movete Argentina: Alto rendimiento</title>
+<desc lang="es">Rutinas y ejercicios saludables para que todas las argentinas y los argentinos realicen en sus casas.</desc>
+</programme>
+<programme start="20210730141500 +0000" stop="20210730143000 +0000" channel="DeporTV.ar">
+<title lang="es" >Movete Argentina: Alto rendimiento</title>
+<desc lang="es">Rutinas y ejercicios saludables para que todas las argentinas y los argentinos realicen en sus casas.</desc>
+</programme>
+<programme start="20210730143000 +0000" stop="20210730150000 +0000" channel="DeporTV.ar">
+<title lang="es" >Mentes doradas</title>
+<desc lang="es">Programa especial sobre la atleta especialista en remo, nacida el 8 de noviembre de 1982.</desc>
+</programme>
+<programme start="20210730150000 +0000" stop="20210730151500 +0000" channel="DeporTV.ar">
+<title lang="es" >El retrovisor</title>
+<desc lang="es">Un repaso por archivos históricos para revivir los mejores momentos del deporte.</desc>
+</programme>
+<programme start="20210730151500 +0000" stop="20210730154500 +0000" channel="DeporTV.ar">
+<title lang="es" >Escuela de boxeo</title>
+<desc lang="es">Los expertos se reúnen en el ring para redescubrir el deporte a través de la fusión de la práctica deportiva y el desarrollo personal.</desc>
+</programme>
+<programme start="20210730154500 +0000" stop="20210730160000 +0000" channel="DeporTV.ar">
+<title lang="es" >De barrio somos</title>
+<desc lang="es">Un recorrido por las diversas historias de los diferentes clubes de barrio, de la mano de los propios protagonistas que viven la pasión de aquello que es más que un juego.</desc>
+</programme>
+<programme start="20210730160000 +0000" stop="20210730163000 +0000" channel="DeporTV.ar">
+<title lang="es" >La meta</title>
+<desc lang="es">Un retrato de los corredores del atletismo argentino desde las figuras más destacadas del pasado hasta los referentes de la actualidad.</desc>
+</programme>
+<programme start="20210730163000 +0000" stop="20210730173000 +0000" channel="DeporTV.ar">
+<title lang="es" >Tokyo al día</title>
+<desc lang="es">Informes especiales, actualidad, entrevistas con los deportistas y la preparación de los mismos en los Juegos Olímpicos Tokio 2020.</desc>
+</programme>
+<programme start="20210730173000 +0000" stop="20210730203000 +0000" channel="DeporTV.ar">
+<title lang="es" >Tenis de mesa</title>
+<desc lang="es">Jornada 4 del campeonato regional clasificatorio a los Juegos Olímpicos de Tokio. Del 17 de abril de 2021.</desc>
+</programme>
+<programme start="20210730203000 +0000" stop="20210730210000 +0000" channel="DeporTV.ar">
+<title lang="es" >Mundo Leo</title>
+<desc lang="es">Especial de Lionel Messi en la Copa América.</desc>
+</programme>
+<programme start="20210730210000 +0000" stop="20210730220000 +0000" channel="DeporTV.ar">
+<title lang="es" >Código Tokio: La previa</title>
+<desc lang="es"></desc>
+</programme>
+<programme start="20210730220000 +0000" stop="20210730221500 +0000" channel="DeporTV.ar">
+<title lang="es" >Sombras en los juegos</title>
+<desc lang="es">La historia del mítico boxeador que logró la medalla de oro en los Juegos Olímpicos de Roma 1960, antes de ser campeón de mundo en los pesos pesados como profesional.</desc>
+</programme>
+<programme start="20210730221500 +0000" stop="20210730223000 +0000" channel="DeporTV.ar">
+<title lang="es" >Movete Argentina: Alto rendimiento</title>
+<desc lang="es">Rutinas y ejercicios saludables para que todas las argentinas y los argentinos realicen en sus casas.</desc>
+</programme>
+<programme start="20210730223000 +0000" stop="20210730224500 +0000" channel="DeporTV.ar">
+<title lang="es" >Movete Argentina: Alto rendimiento</title>
+<desc lang="es">Rutinas y ejercicios saludables para que todas las argentinas y los argentinos realicen en sus casas.</desc>
+</programme>
+<programme start="20210730224500 +0000" stop="20210730234500 +0000" channel="DeporTV.ar">
+<title lang="es" >Maraton Man</title>
+<desc lang="es">Ciudad de México es la urbe más la poblada del planeta. En este lugar fascinante y caótico, Maraton Man descubre dos historias de superación personal.</desc>
+</programme>
+<programme start="20210730234500 +0000" stop="20210731000000 +0000" channel="DeporTV.ar">
+<title lang="es" >Sombras en los juegos</title>
+<desc lang="es">Programa especial de la atleta estadounidense nacida en Riverdale, Elizabeth "Betty" Robinson.</desc>
+</programme>
+<programme start="20210731000000 +0000" stop="20210731030000 +0000" channel="DeporTV.ar">
+<title lang="es" >Juegos Olímpicos Tokio 2020</title>
+<desc lang="es">Las actividades de deportistas argentinos en todas las disciplinas, y la mejor cobertura general de los Juegos Olímpicos 2020, con los mejores exponentes del planeta.</desc>
+</programme>
+<programme start="20210731030000 +0000" stop="20210731080000 +0000" channel="DeporTV.ar">
+<title lang="es" >Juegos Olímpicos Tokio 2020</title>
+<desc lang="es">Las actividades de deportistas argentinos en todas las disciplinas, y la mejor cobertura general de los Juegos Olímpicos 2020, con los mejores exponentes del planeta.</desc>
+</programme>
+<programme start="20210731080000 +0000" stop="20210731140000 +0000" channel="DeporTV.ar">
+<title lang="es" >Juegos Olímpicos Tokio 2020</title>
+<desc lang="es">Las actividades de deportistas argentinos en todas las disciplinas, y la mejor cobertura general de los Juegos Olímpicos 2020, con los mejores exponentes del planeta.</desc>
+</programme>
+<programme start="20210731140000 +0000" stop="20210731160000 +0000" channel="DeporTV.ar">
+<title lang="es" >Automovilismo Turismo Carretera</title>
+<desc lang="es">Acción de cada una de las carreras de Turismo Carretera, la categoría más apasionante del automovilismo argentino.</desc>
+</programme>
+<programme start="20210731160000 +0000" stop="20210731170000 +0000" channel="DeporTV.ar">
+<title lang="es" >Tokyo al día</title>
+<desc lang="es">Informes especiales, actualidad, entrevistas con los deportistas y la preparación de los mismos en los Juegos Olímpicos Tokio 2020.</desc>
+</programme>
+<programme start="20210731170000 +0000" stop="20210731173000 +0000" channel="DeporTV.ar">
+<title lang="es" >Contar la vida</title>
+<desc lang="es">Un programa especial sobre el exjudador argentino de rugby.</desc>
+</programme>
+<programme start="20210731173000 +0000" stop="20210731174500 +0000" channel="DeporTV.ar">
+<title lang="es" >De clubes y potreros</title>
+<desc lang="es">Una serie de microprogramas animados que narran la historia de los clubes del fútbol argentino. Instantes impregnados de emoción, tenacidad y, sobre todo, pasión por el juego.</desc>
+</programme>
+<programme start="20210731174500 +0000" stop="20210731181500 +0000" channel="DeporTV.ar">
+<title lang="es" >Mentes doradas</title>
+<desc lang="es">Programa especial sobre la atleta especialista en remo, nacida el 8 de noviembre de 1982.</desc>
+</programme>
+<programme start="20210731181500 +0000" stop="20210731183000 +0000" channel="DeporTV.ar">
+<title lang="es" >Sombras en los juegos</title>
+<desc lang="es">La historia del mítico boxeador que logró la medalla de oro en los Juegos Olímpicos de Roma 1960, antes de ser campeón de mundo en los pesos pesados como profesional.</desc>
+</programme>
+<programme start="20210731183000 +0000" stop="20210731190000 +0000" channel="DeporTV.ar">
+<title lang="es" >La Argentina olímpica</title>
+<desc lang="es">Un recorrido por la historia del deporte olímpico argentino y sus vínculos con la política, la cultura y la sociedad, a través de material de archivo, entrevistas y testimonios.</desc>
+</programme>
+<programme start="20210731190000 +0000" stop="20210731200000 +0000" channel="DeporTV.ar">
+<title lang="es" >Maraton Man</title>
+<desc lang="es">Japón es una de las cunas mundiales del running: cada año 580 000 japoneses terminan un maratón. Maraton Man se enfrenta a la carrera más dura de la temporada acompañado por unos abuelos fascinantes.</desc>
+</programme>
+<programme start="20210731200000 +0000" stop="20210731201500 +0000" channel="DeporTV.ar">
+<title lang="es" >De barrio somos</title>
+<desc lang="es">Un recorrido por las diversas historias de los diferentes clubes de barrio, de la mano de los propios protagonistas que viven la pasión de aquello que es más que un juego.</desc>
+</programme>
+<programme start="20210731201500 +0000" stop="20210731204500 +0000" channel="DeporTV.ar">
+<title lang="es" >Tándem</title>
+<desc lang="es">Pequeñas historias donde el aprendizaje entre generaciones y la construcción de lazos sociales solidarios forman parte de un legado.</desc>
+</programme>
+<programme start="20210731204500 +0000" stop="20210731210000 +0000" channel="DeporTV.ar">
+<title lang="es" >Sombras en los juegos</title>
+<desc lang="es">Programa especial de la atleta estadounidense nacida en Riverdale, Elizabeth "Betty" Robinson.</desc>
+</programme>
+<programme start="20210731210000 +0000" stop="20210731213000 +0000" channel="DeporTV.ar">
+<title lang="es" >El gran Willy</title>
+<desc lang="es">Un proyecto que rinde homenaje al tenista más grande de todos los tiempos y uno de los más destacados de la historia. Materiales inéditos, fotografías, audios y agendas personales que exponen el talento del gran Willy.</desc>
+</programme>
+<programme start="20210731213000 +0000" stop="20210731214500 +0000" channel="DeporTV.ar">
+<title lang="es" >Movete Argentina: Alto rendimiento</title>
+<desc lang="es">Rutinas y ejercicios saludables para que todas las argentinas y los argentinos realicen en sus casas.</desc>
+</programme>
+<programme start="20210731214500 +0000" stop="20210731220000 +0000" channel="DeporTV.ar">
+<title lang="es" >Movete Argentina: Alto rendimiento</title>
+<desc lang="es">Rutinas y ejercicios saludables para que todas las argentinas y los argentinos realicen en sus casas.</desc>
+</programme>
+<programme start="20210731220000 +0000" stop="20210731230000 +0000" channel="DeporTV.ar">
+<title lang="es" >Código Tokio: La previa</title>
+<desc lang="es"></desc>
+</programme>
+<programme start="20210731230000 +0000" stop="20210801030000 +0000" channel="DeporTV.ar">
+<title lang="es" >Juegos Olímpicos Tokio 2020</title>
+<desc lang="es">Las actividades de deportistas argentinos en todas las disciplinas, y la mejor cobertura general de los Juegos Olímpicos 2020, con los mejores exponentes del planeta.</desc>
+</programme>
+<programme start="20210801030000 +0000" stop="20210801080000 +0000" channel="DeporTV.ar">
+<title lang="es" >Juegos Olímpicos Tokio 2020</title>
+<desc lang="es">Las actividades de deportistas argentinos en todas las disciplinas, y la mejor cobertura general de los Juegos Olímpicos 2020, con los mejores exponentes del planeta.</desc>
+</programme>
+<programme start="20210801080000 +0000" stop="20210801140000 +0000" channel="DeporTV.ar">
+<title lang="es" >Juegos Olímpicos Tokio 2020</title>
+<desc lang="es">Las actividades de deportistas argentinos en todas las disciplinas, y la mejor cobertura general de los Juegos Olímpicos 2020, con los mejores exponentes del planeta.</desc>
+</programme>
+<programme start="20210801140000 +0000" stop="20210801141500 +0000" channel="DeporTV.ar">
+<title lang="es" >Movete Argentina: Alto rendimiento</title>
+<desc lang="es">Rutinas y ejercicios saludables para que todas las argentinas y los argentinos realicen en sus casas.</desc>
+</programme>
+<programme start="20210801141500 +0000" stop="20210801143000 +0000" channel="DeporTV.ar">
+<title lang="es" >Movete Argentina: Alto rendimiento</title>
+<desc lang="es">Rutinas y ejercicios saludables para que todas las argentinas y los argentinos realicen en sus casas.</desc>
+</programme>
+<programme start="20210801143000 +0000" stop="20210801150000 +0000" channel="DeporTV.ar">
+<title lang="es" >El grito sagrado</title>
+<desc lang="es">El grito sagrado propone conocer la historia deportiva de los íconos nacionales de nuestra época. En esta edición, un repaso a la vida y a la carrera de Delfo Cabrera.</desc>
+</programme>
+<programme start="20210801150000 +0000" stop="20210801153000 +0000" channel="DeporTV.ar">
+<title lang="es" >Panamericano de Gimnasia Rítmica de Río de Janeiro 2021</title>
+<desc lang="es">Torneo clasificatorio para los Juegos Olímpicos de Tokio 2020. Gimnasia rítmica en conjunto Mayor, gimnasia rítmica individual categoría Mayor, trampolín individual Senior y Juvenil y trampolín sincronizado Senior y Juvenil.</desc>
+</programme>
+<programme start="20210801153000 +0000" stop="20210801160000 +0000" channel="DeporTV.ar">
+<title lang="es" >Mentes doradas</title>
+<desc lang="es">La preparación de la jugadora de voleibol cordobesa Yamila Nizetich de cara a los Juegos Olímpicos.</desc>
+</programme>
+<programme start="20210801160000 +0000" stop="20210801170000 +0000" channel="DeporTV.ar">
+<title lang="es" >Tokyo al día</title>
+<desc lang="es">Informes especiales, actualidad, entrevistas con los deportistas y la preparación de los mismos en los Juegos Olímpicos Tokio 2020.</desc>
+</programme>
+<programme start="20210801170000 +0000" stop="20210801180000 +0000" channel="DeporTV.ar">
+<title lang="es" >Maraton Man</title>
+<desc lang="es">Raúl Gómez se enfrenta a una de las maratones más bellas del planeta. 42 kilómetros que se pueden convertir en una pesadilla a tan solo 7 días del cruce de los Andes. ¿Conseguirá llegar a la meta?</desc>
+</programme>
+<programme start="20210801180000 +0000" stop="20210801183000 +0000" channel="DeporTV.ar">
+<title lang="es" >Contar la vida</title>
+<desc lang="es">Una entrevista especial con el entrenador de baloncesto argentino Julio Lamas. Un repaso de su trayectoria profesional.</desc>
+</programme>
+<programme start="20210801183000 +0000" stop="20210801184500 +0000" channel="DeporTV.ar">
+<title lang="es" >Sombras en los juegos</title>
+<desc lang="es">Una serie documental que va más allá de las crónicas deportivas. Un recuerdo de los protagonistas que vivieron situaciones complejas durante los Juego Olímpicos.</desc>
+</programme>
+<programme start="20210801184500 +0000" stop="20210801191500 +0000" channel="DeporTV.ar">
+<title lang="es" >Mentes doradas</title>
+<desc lang="es">Programa especial sobre la atleta especialista en remo, nacida el 8 de noviembre de 1982.</desc>
+</programme>
+<programme start="20210801191500 +0000" stop="20210801193000 +0000" channel="DeporTV.ar">
+<title lang="es" >Somos futbolistas</title>
+<desc lang="es">Entrevista especial con el exfutbolista y gloria de Independiente Ricardo Bochini.</desc>
+</programme>
+<programme start="20210801193000 +0000" stop="20210801194500 +0000" channel="DeporTV.ar">
+<title lang="es" >Sombras en los juegos</title>
+<desc lang="es">La historia del mítico boxeador que logró la medalla de oro en los Juegos Olímpicos de Roma 1960, antes de ser campeón de mundo en los pesos pesados como profesional.</desc>
+</programme>
+<programme start="20210801194500 +0000" stop="20210801201500 +0000" channel="DeporTV.ar">
+<title lang="es" >La meta</title>
+<desc lang="es">Una crónica del camino de deportistas argentinos como Germán Lauro, Paula Pareto, Germán Chiaraviglio, Jennifer Dahlgren y Federico Molinari para alcanzar el sueño de llegar a un juego olímpico.</desc>
+</programme>
+<programme start="20210801201500 +0000" stop="20210801203000 +0000" channel="DeporTV.ar">
+<title lang="es" >Herencia deportiva</title>
+<desc lang="es">Un espacio con toda la información y el diálogo sobre el deporte a nivel local, provincial y nacional.</desc>
+</programme>
+<programme start="20210801203000 +0000" stop="20210801210000 +0000" channel="DeporTV.ar">
+<title lang="es" >Volverte a ver</title>
+<desc lang="es">La Generación Dorada de baloncesto llenó de gloria al deporte argentino y se convirtió en leyenda. Ahora, Fabricio Otero va al encuentro de los excompañeros que empiezan a unirse al batallón de los retirados.</desc>
+</programme>
+<programme start="20210801210000 +0000" stop="20210801213000 +0000" channel="DeporTV.ar">
+<title lang="es" >Bestiario</title>
+<desc lang="es">Una bitácora de los viajes a las "bestias" y fábulas del deporte argentino, donde se explora, desde un carácter periodístico-poético, los rasgos que hipnotizan de los hitos, anécdotas y criaturas de ese mundo.</desc>
+</programme>
+<programme start="20210801213000 +0000" stop="20210801214500 +0000" channel="DeporTV.ar">
+<title lang="es" >Movete Argentina: Alto rendimiento</title>
+<desc lang="es">Rutinas y ejercicios saludables para que todas las argentinas y los argentinos realicen en sus casas.</desc>
+</programme>
+<programme start="20210801214500 +0000" stop="20210801220000 +0000" channel="DeporTV.ar">
+<title lang="es" >Movete Argentina: Alto rendimiento</title>
+<desc lang="es">Rutinas y ejercicios saludables para que todas las argentinas y los argentinos realicen en sus casas.</desc>
+</programme>
+<programme start="20210801220000 +0000" stop="20210801230000 +0000" channel="DeporTV.ar">
+<title lang="es" >Código Tokio: La previa</title>
+<desc lang="es"></desc>
+</programme>
+<programme start="20210801230000 +0000" stop="20210801233000 +0000" channel="DeporTV.ar">
+<title lang="es" >Tándem</title>
+<desc lang="es">Pequeñas historias donde el aprendizaje entre generaciones y la construcción de lazos sociales solidarios forman parte de un legado.</desc>
+</programme>
+<programme start="20210801233000 +0000" stop="20210802000000 +0000" channel="DeporTV.ar">
+<title lang="es" >Juegos Olímpicos Tokio 2020</title>
+<desc lang="es">Las actividades de deportistas argentinos en todas las disciplinas, y la mejor cobertura general de los Juegos Olímpicos 2020, con los mejores exponentes del planeta.</desc>
+</programme>
+<programme start="20210729010000 +0000" stop="20210729020000 +0000" channel="Elnueve.ar">
+<title lang="es" >La hora exacta</title>
+<desc lang="es">Un espacio para jugar con los recuerdos y ganar importantes premios descubriendo la hora exacta de los hechos que hicieron historia.</desc>
+</programme>
+<programme start="20210729020000 +0000" stop="20210729030000 +0000" channel="Elnueve.ar">
+<title lang="es" >Fuego amigo</title>
+<desc lang="es">Un programa que repasa los acontecimientos del día y analiza sus consecuencias en el oficialismo y en la oposición.</desc>
+</programme>
+<programme start="20210729030000 +0000" stop="20210729033000 +0000" channel="Elnueve.ar">
+<title lang="es" >Telenueve al cierre</title>
+<desc lang="es">Un recuento de las noticias más importante del día e información actual.</desc>
+</programme>
+<programme start="20210729033000 +0000" stop="20210729040000 +0000" channel="Elnueve.ar">
+<title lang="es" >Punto de luz</title>
+<desc lang="es">Programa religioso orientado a la comunidad.</desc>
+</programme>
+<programme start="20210729040000 +0000" stop="20210729041500 +0000" channel="Elnueve.ar">
+<title lang="es" >Pare de sufrir</title>
+<desc lang="es">Los pastores brasileños de la Iglesia Universal Pare de Sufrir producen este espacio dirigido a los fieles de la religión cristiana y se realizan transmisiones en vivo del culto. Se tratan temas y testimonios sobre espiritualidad, mejoramiento personal y crecimiento individual. Por medio de reflexiones sobre la familia y el amor de Dios, este espacio pretende orientar e instruir sobre temas relevantes a la religión cristiana y a los dilemas que se presentan en el día a día. Mediante la conversación y la puesta en común de diferentes temas, el programa lleva consejos al público y se discuten temas espirituales y de superación personal.</desc>
+</programme>
+<programme start="20210729041500 +0000" stop="20210729051500 +0000" channel="Elnueve.ar">
+<title lang="es" >TV Compras</title>
+<desc lang="es">Diversos productos para la venta.</desc>
+</programme>
+<programme start="20210729051500 +0000" stop="20210729063000 +0000" channel="Elnueve.ar">
+<title lang="es" >Todas las tardes</title>
+<desc lang="es">Programa de espectáculos, actualidad, redes sociales y entrevistas.</desc>
+</programme>
+<programme start="20210729063000 +0000" stop="20210729070000 +0000" channel="Elnueve.ar">
+<title lang="es" >SIGN OFF</title>
+<desc lang="es">Sign off.</desc>
+</programme>
+<programme start="20210729070000 +0000" stop="20210729080000 +0000" channel="Elnueve.ar">
+<title lang="es" >Informes TL9</title>
+<desc lang="es">Historias verídicas, conmovedoras e impresionantes. Una imagen de la sociedad actual y las problemáticas que la representan.</desc>
+</programme>
+<programme start="20210729080000 +0000" stop="20210729090000 +0000" channel="Elnueve.ar">
+<title lang="es" >Dale like</title>
+<desc lang="es">Un recorrido por el mundo de las redes sociales, con influencers destacados como invitados. Música, vídeos, ranking y todo el espíritu divertido.</desc>
+</programme>
+<programme start="20210729090000 +0000" stop="20210729095500 +0000" channel="Elnueve.ar">
+<title lang="es" >Amanece</title>
+<desc lang="es"></desc>
+</programme>
+<programme start="20210729095500 +0000" stop="20210729130000 +0000" channel="Elnueve.ar">
+<title lang="es" >TL 9 al amanecer</title>
+<desc lang="es">Un nuevo amanecer cada mañana, el magazín con toda la información antes de salir de casa.</desc>
+</programme>
+<programme start="20210729130000 +0000" stop="20210729150000 +0000" channel="Elnueve.ar">
+<title lang="es" >Qué mañana!</title>
+<desc lang="es">Un programa de cocina y, junto a él, un grupo de expertos llevarán adelante una variedad de secciones orientadas a la información y el entretenimiento.</desc>
+</programme>
+<programme start="20210729150000 +0000" stop="20210729163000 +0000" channel="Elnueve.ar">
+<title lang="es" >Telenueve al mediodía</title>
+<desc lang="es">El noticiero más completo, que presenta la mejor información con las noticias de actualidad.</desc>
+</programme>
+<programme start="20210729163000 +0000" stop="20210729180000 +0000" channel="Elnueve.ar">
+<title lang="es" >El show del problema</title>
+<desc lang="es">Hablando todo se resuelve, hasta a los problemas familiares, con amigos, de pareja o cualquier otro que no deje vivir en paz.</desc>
+</programme>
+<programme start="20210729180000 +0000" stop="20210729190000 +0000" channel="Elnueve.ar">
+<title lang="es" >Está en tus manos</title>
+<desc lang="es"></desc>
+</programme>
+<programme start="20210729190000 +0000" stop="20210729203000 +0000" channel="Elnueve.ar">
+<title lang="es" >Super, super</title>
+<desc lang="es">Un programa para ganar y divertirse.</desc>
+</programme>
+<programme start="20210729203000 +0000" stop="20210729220000 +0000" channel="Elnueve.ar">
+<title lang="es" >Todas las tardes</title>
+<desc lang="es">Programa de espectáculos, actualidad, redes sociales y entrevistas.</desc>
+</programme>
+<programme start="20210729220000 +0000" stop="20210729233000 +0000" channel="Elnueve.ar">
+<title lang="es" >Telenueve central</title>
+<desc lang="es">Noticiero que presenta toda la información del día y al instante, con un análisis destacado de los hechos.</desc>
+</programme>
+<programme start="20210729233000 +0000" stop="20210730010000 +0000" channel="Elnueve.ar">
+<title lang="es" >Bendita</title>
+<desc lang="es">Beto Casella y un divertido panel repasan la actualidad con ironía y humor y con los más completos informes.</desc>
+</programme>
+<programme start="20210730010000 +0000" stop="20210730020000 +0000" channel="Elnueve.ar">
+<title lang="es" >La hora exacta</title>
+<desc lang="es">Un espacio para jugar con los recuerdos y ganar importantes premios descubriendo la hora exacta de los hechos que hicieron historia.</desc>
+</programme>
+<programme start="20210730020000 +0000" stop="20210730030000 +0000" channel="Elnueve.ar">
+<title lang="es" >Fuego amigo</title>
+<desc lang="es">Un programa que repasa los acontecimientos del día y analiza sus consecuencias en el oficialismo y en la oposición.</desc>
+</programme>
+<programme start="20210730030000 +0000" stop="20210730033000 +0000" channel="Elnueve.ar">
+<title lang="es" >Telenueve al cierre</title>
+<desc lang="es">Un recuento de las noticias más importante del día e información actual.</desc>
+</programme>
+<programme start="20210730033000 +0000" stop="20210730040000 +0000" channel="Elnueve.ar">
+<title lang="es" >Punto de luz</title>
+<desc lang="es">Programa religioso orientado a la comunidad.</desc>
+</programme>
+<programme start="20210730040000 +0000" stop="20210730041500 +0000" channel="Elnueve.ar">
+<title lang="es" >Pare de sufrir</title>
+<desc lang="es">Los pastores brasileños de la Iglesia Universal Pare de Sufrir producen este espacio dirigido a los fieles de la religión cristiana y se realizan transmisiones en vivo del culto. Se tratan temas y testimonios sobre espiritualidad, mejoramiento personal y crecimiento individual. Por medio de reflexiones sobre la familia y el amor de Dios, este espacio pretende orientar e instruir sobre temas relevantes a la religión cristiana y a los dilemas que se presentan en el día a día. Mediante la conversación y la puesta en común de diferentes temas, el programa lleva consejos al público y se discuten temas espirituales y de superación personal.</desc>
+</programme>
+<programme start="20210730041500 +0000" stop="20210730051500 +0000" channel="Elnueve.ar">
+<title lang="es" >TV Compras</title>
+<desc lang="es">Diversos productos para la venta.</desc>
+</programme>
+<programme start="20210730051500 +0000" stop="20210730063000 +0000" channel="Elnueve.ar">
+<title lang="es" >Todas las tardes</title>
+<desc lang="es">Programa de espectáculos, actualidad, redes sociales y entrevistas.</desc>
+</programme>
+<programme start="20210730063000 +0000" stop="20210730070000 +0000" channel="Elnueve.ar">
+<title lang="es" >SIGN OFF</title>
+<desc lang="es">Sign off.</desc>
+</programme>
+<programme start="20210730070000 +0000" stop="20210730080000 +0000" channel="Elnueve.ar">
+<title lang="es" >Informes TL9</title>
+<desc lang="es">Historias verídicas, conmovedoras e impresionantes. Una imagen de la sociedad actual y las problemáticas que la representan.</desc>
+</programme>
+<programme start="20210730080000 +0000" stop="20210730090000 +0000" channel="Elnueve.ar">
+<title lang="es" >Dale like</title>
+<desc lang="es">Un recorrido por el mundo de las redes sociales, con influencers destacados como invitados. Música, vídeos, ranking y todo el espíritu divertido.</desc>
+</programme>
+<programme start="20210730090000 +0000" stop="20210730095500 +0000" channel="Elnueve.ar">
+<title lang="es" >Amanece</title>
+<desc lang="es"></desc>
+</programme>
+<programme start="20210730095500 +0000" stop="20210730130000 +0000" channel="Elnueve.ar">
+<title lang="es" >TL 9 al amanecer</title>
+<desc lang="es">Un nuevo amanecer cada mañana, el magazín con toda la información antes de salir de casa.</desc>
+</programme>
+<programme start="20210730130000 +0000" stop="20210730150000 +0000" channel="Elnueve.ar">
+<title lang="es" >Qué mañana!</title>
+<desc lang="es">Un programa de cocina y, junto a él, un grupo de expertos llevarán adelante una variedad de secciones orientadas a la información y el entretenimiento.</desc>
+</programme>
+<programme start="20210730150000 +0000" stop="20210730163000 +0000" channel="Elnueve.ar">
+<title lang="es" >Telenueve al mediodía</title>
+<desc lang="es">El noticiero más completo, que presenta la mejor información con las noticias de actualidad.</desc>
+</programme>
+<programme start="20210730163000 +0000" stop="20210730180000 +0000" channel="Elnueve.ar">
+<title lang="es" >El show del problema</title>
+<desc lang="es">Hablando todo se resuelve, hasta a los problemas familiares, con amigos, de pareja o cualquier otro que no deje vivir en paz.</desc>
+</programme>
+<programme start="20210730180000 +0000" stop="20210730193000 +0000" channel="Elnueve.ar">
+<title lang="es" >Está en tus manos</title>
+<desc lang="es"></desc>
+</programme>
+<programme start="20210730193000 +0000" stop="20210730203000 +0000" channel="Elnueve.ar">
+<title lang="es" >Super, super</title>
+<desc lang="es">Un programa para ganar y divertirse.</desc>
+</programme>
+<programme start="20210730203000 +0000" stop="20210730220000 +0000" channel="Elnueve.ar">
+<title lang="es" >Todas las tardes</title>
+<desc lang="es">Programa de espectáculos, actualidad, redes sociales y entrevistas.</desc>
+</programme>
+<programme start="20210730220000 +0000" stop="20210730233000 +0000" channel="Elnueve.ar">
+<title lang="es" >Telenueve central</title>
+<desc lang="es">Noticiero que presenta toda la información del día y al instante, con un análisis destacado de los hechos.</desc>
+</programme>
+<programme start="20210730233000 +0000" stop="20210731010000 +0000" channel="Elnueve.ar">
+<title lang="es" >Bendita</title>
+<desc lang="es">Beto Casella y un divertido panel repasan la actualidad con ironía y humor y con los más completos informes.</desc>
+</programme>
+<programme start="20210731010000 +0000" stop="20210731023000 +0000" channel="Elnueve.ar">
+<title lang="es" >La hora exacta</title>
+<desc lang="es">Un espacio para jugar con los recuerdos y ganar importantes premios descubriendo la hora exacta de los hechos que hicieron historia.</desc>
+</programme>
+<programme start="20210731023000 +0000" stop="20210731033000 +0000" channel="Elnueve.ar">
+<title lang="es" >Telenueve al cierre</title>
+<desc lang="es">Un recuento de las noticias más importante del día e información actual.</desc>
+</programme>
+<programme start="20210731033000 +0000" stop="20210731041500 +0000" channel="Elnueve.ar">
+<title lang="es" >Pare de sufrir</title>
+<desc lang="es">Los pastores brasileños de la Iglesia Universal Pare de Sufrir producen este espacio dirigido a los fieles de la religión cristiana y se realizan transmisiones en vivo del culto. Se tratan temas y testimonios sobre espiritualidad, mejoramiento personal y crecimiento individual. Por medio de reflexiones sobre la familia y el amor de Dios, este espacio pretende orientar e instruir sobre temas relevantes a la religión cristiana y a los dilemas que se presentan en el día a día. Mediante la conversación y la puesta en común de diferentes temas, el programa lleva consejos al público y se discuten temas espirituales y de superación personal.</desc>
+</programme>
+<programme start="20210731041500 +0000" stop="20210731051500 +0000" channel="Elnueve.ar">
+<title lang="es" >TV Compras</title>
+<desc lang="es">Diversos productos para la venta.</desc>
+</programme>
+<programme start="20210731051500 +0000" stop="20210731063000 +0000" channel="Elnueve.ar">
+<title lang="es" >Todas las tardes</title>
+<desc lang="es">Programa de espectáculos, actualidad, redes sociales y entrevistas.</desc>
+</programme>
+<programme start="20210731063000 +0000" stop="20210731070000 +0000" channel="Elnueve.ar">
+<title lang="es" >SIGN OFF</title>
+<desc lang="es">Sign off.</desc>
+</programme>
+<programme start="20210731070000 +0000" stop="20210731080000 +0000" channel="Elnueve.ar">
+<title lang="es" >Informes TL9</title>
+<desc lang="es">Historias verídicas, conmovedoras e impresionantes. Una imagen de la sociedad actual y las problemáticas que la representan.</desc>
+</programme>
+<programme start="20210731080000 +0000" stop="20210731100000 +0000" channel="Elnueve.ar">
+<title lang="es" >Dale like</title>
+<desc lang="es">Un recorrido por el mundo de las redes sociales, con influencers destacados como invitados. Música, vídeos, ranking y todo el espíritu divertido.</desc>
+</programme>
+<programme start="20210731100000 +0000" stop="20210731120000 +0000" channel="Elnueve.ar">
+<title lang="es" >TV Compras</title>
+<desc lang="es">Diversos productos para la venta.</desc>
+</programme>
+<programme start="20210731120000 +0000" stop="20210731130000 +0000" channel="Elnueve.ar">
+<title lang="es" >Claves para un mundo mejor</title>
+<desc lang="es">Gestos solidarios, acciones positivas, testimonios de vida y el trabajo cotidiano de la gente a favor de la gente generan una visión esperanzada de la realidad, sabiendo que es posible un país mejor y por ende un mundo mejor.</desc>
+</programme>
+<programme start="20210731130000 +0000" stop="20210731133000 +0000" channel="Elnueve.ar">
+<title lang="es" >TAF, taller fantástico</title>
+<desc lang="es">Un espacio para niños con experimentos, juegos y mucha música.</desc>
+</programme>
+<programme start="20210731133000 +0000" stop="20210731140000 +0000" channel="Elnueve.ar">
+<title lang="es" >Dale like</title>
+<desc lang="es">Un recorrido por el mundo de las redes sociales, con influencers destacados como invitados. Música, vídeos, ranking y todo el espíritu divertido.</desc>
+</programme>
+<programme start="20210731140000 +0000" stop="20210731141500 +0000" channel="Elnueve.ar">
+<title lang="es" >Veer la actualidad</title>
+<desc lang="es">Programa de actualidad, con novedades de moda, eventos y estética.</desc>
+</programme>
+<programme start="20210731141500 +0000" stop="20210731143000 +0000" channel="Elnueve.ar">
+<title lang="es" >Show sobre ruedas</title>
+<desc lang="es">Programa sobre el mundo del automóvil con las últimas novedades.</desc>
+</programme>
+<programme start="20210731143000 +0000" stop="20210731150000 +0000" channel="Elnueve.ar">
+<title lang="es" >Expertas TV</title>
+<desc lang="es">Programa de cocina fresco y descontracturado. Se elaboran platos económicos y fáciles de hacer. Un invitado comparte la cocina y participa de una divertida entrevista.</desc>
+</programme>
+<programme start="20210731150000 +0000" stop="20210731160000 +0000" channel="Elnueve.ar">
+<title lang="es" >Clave argentina</title>
+<desc lang="es">Un programa que muestra los lugares más emblemáticos de todas las provincias de Argentina.</desc>
+</programme>
+<programme start="20210731160000 +0000" stop="20210731170000 +0000" channel="Elnueve.ar">
+<title lang="es" >Jineteando</title>
+<desc lang="es">Un recorrido por los espectáculos de jineteadas, y culturales del país.</desc>
+</programme>
+<programme start="20210731170000 +0000" stop="20210731180000 +0000" channel="Elnueve.ar">
+<title lang="es" >Nara que ver</title>
+<desc lang="es">Un programa que cuenta con la presencia de los mejores especialistas y diversas entrevistas con personajes del mundo del espectáculo local e internacional.</desc>
+</programme>
+<programme start="20210731180000 +0000" stop="20210731190000 +0000" channel="Elnueve.ar">
+<title lang="es" >Con estilo</title>
+<desc lang="es">Una noche de glamour e intimidad con una celebridad como entrevistado central quien compartirá su lado rosa; así como noticias del espectáculo, deportes actividades sociales y artísticas.</desc>
+</programme>
+<programme start="20210731190000 +0000" stop="20210731210000 +0000" channel="Elnueve.ar">
+<title lang="es" >Quedate #EnCasa</title>
+<desc lang="es">Un espacio de entretenimiento para quedarse en casa.</desc>
+</programme>
+<programme start="20210731210000 +0000" stop="20210731230000 +0000" channel="Elnueve.ar">
+<title lang="es" >Implacables</title>
+<desc lang="es">Entretenidas entrevistas, reportajes, notas y chismes de la farándula a cargo de dos reconocidos presentadores argentinos.</desc>
+</programme>
+<programme start="20210731230000 +0000" stop="20210801020000 +0000" channel="Elnueve.ar">
+<title lang="es" >Vivo para vos</title>
+<desc lang="es">Un programa sobre el contexto que se vive en la actualidad, donde se da información y respuestas a preguntas frecuentes.</desc>
+</programme>
+<programme start="20210801020000 +0000" stop="20210801030000 +0000" channel="Elnueve.ar">
+<title lang="es" >Comer para creer</title>
+<desc lang="es">Un recorrido por espacios gastronómicos de la Ciudad Autónoma de Buenos Aires. Además de la presencia de invitados de lujo, se enseñan recetas exquisitas.</desc>
+</programme>
+<programme start="20210801030000 +0000" stop="20210801040000 +0000" channel="Elnueve.ar">
+<title lang="es" >En estéreo</title>
+<desc lang="es">Un programa enfocado en el mundo de la música con reportajes y toda la agenda de los espectáculos.</desc>
+</programme>
+<programme start="20210801040000 +0000" stop="20210801050000 +0000" channel="Elnueve.ar">
+<title lang="es" >TV Compras</title>
+<desc lang="es">Diversos productos para la venta.</desc>
+</programme>
+<programme start="20210801050000 +0000" stop="20210801060000 +0000" channel="Elnueve.ar">
+<title lang="es" >Dale like</title>
+<desc lang="es">Un recorrido por el mundo de las redes sociales, con influencers destacados como invitados. Música, vídeos, ranking y todo el espíritu divertido.</desc>
+</programme>
+<programme start="20210801060000 +0000" stop="20210801070000 +0000" channel="Elnueve.ar">
+<title lang="es" >SIGN OFF</title>
+<desc lang="es">Sign off.</desc>
+</programme>
+<programme start="20210801070000 +0000" stop="20210801080000 +0000" channel="Elnueve.ar">
+<title lang="es" >Informes TL9</title>
+<desc lang="es">Historias verídicas, conmovedoras e impresionantes. Una imagen de la sociedad actual y las problemáticas que la representan.</desc>
+</programme>
+<programme start="20210801080000 +0000" stop="20210801100000 +0000" channel="Elnueve.ar">
+<title lang="es" >Dale like</title>
+<desc lang="es">Un recorrido por el mundo de las redes sociales, con influencers destacados como invitados. Música, vídeos, ranking y todo el espíritu divertido.</desc>
+</programme>
+<programme start="20210801100000 +0000" stop="20210801120000 +0000" channel="Elnueve.ar">
+<title lang="es" >TV Compras</title>
+<desc lang="es">Diversos productos para la venta.</desc>
+</programme>
+<programme start="20210801120000 +0000" stop="20210801123000 +0000" channel="Elnueve.ar">
+<title lang="es" >Prevenir</title>
+<desc lang="es">El primer programa de prevención y seguridad de la Policía Federal Argentina.</desc>
+</programme>
+<programme start="20210801123000 +0000" stop="20210801130000 +0000" channel="Elnueve.ar">
+<title lang="es" >Expertas TV</title>
+<desc lang="es">Programa de cocina fresco y descontracturado. Se elaboran platos económicos y fáciles de hacer. Un invitado comparte la cocina y participa de una divertida entrevista.</desc>
+</programme>
+<programme start="20210801130000 +0000" stop="20210801133000 +0000" channel="Elnueve.ar">
+<title lang="es" >TAF, taller fantástico</title>
+<desc lang="es">Un espacio para niños con experimentos, juegos y mucha música.</desc>
+</programme>
+<programme start="20210801133000 +0000" stop="20210801143000 +0000" channel="Elnueve.ar">
+<title lang="es" >Ambiente y medio</title>
+<desc lang="es">Un programa de periodismo aplicado a la ecología. Un espacio amplio que abarca desde la explicación de los procesos que conducen a problemas ambientales hasta las formas de enfrentarlos.</desc>
+</programme>
+<programme start="20210801143000 +0000" stop="20210801150000 +0000" channel="Elnueve.ar">
+<title lang="es" >Veer</title>
+<desc lang="es">Un programa que acerca el mundo de las redes sociales a la televisión, con una estética instagramera que recorre el mundo de la moda, la gastronomía, la vida saludable, la música.</desc>
+</programme>
+<programme start="20210801150000 +0000" stop="20210801153000 +0000" channel="Elnueve.ar">
+<title lang="es" >Automás</title>
+<desc lang="es">Un espacio en el que se brinda información sobre el mundo automotriz y se comparten entrevistas con figuras reconocidas.</desc>
+</programme>
+<programme start="20210801153000 +0000" stop="20210801163000 +0000" channel="Elnueve.ar">
+<title lang="es" >Fiestas argentinas</title>
+<desc lang="es">Un programa que recorre el país visitando diferentes lugares en un recorrido por la historia, el turismo, la producción, la gente y las fiestas populares.</desc>
+</programme>
+<programme start="20210801163000 +0000" stop="20210801173000 +0000" channel="Elnueve.ar">
+<title lang="es" >La cocina de los Calamaro</title>
+<desc lang="es">La familia Calamaro abre las puertas de su casa para compartir sus habilidades artísticas y culinaria con invitados de distintos mundos.</desc>
+</programme>
+<programme start="20210801173000 +0000" stop="20210801190000 +0000" channel="Elnueve.ar">
+<title lang="es" >Me gusta el domingo</title>
+<desc lang="es"></desc>
+</programme>
+<programme start="20210801190000 +0000" stop="20210801210000 +0000" channel="Elnueve.ar">
+<title lang="es" >Quedate #EnCasa</title>
+<desc lang="es">Un espacio de entretenimiento para quedarse en casa.</desc>
+</programme>
+<programme start="20210801210000 +0000" stop="20210801230000 +0000" channel="Elnueve.ar">
+<title lang="es" >Implacables</title>
+<desc lang="es">Entretenidas entrevistas, reportajes, notas y chismes de la farándula a cargo de dos reconocidos presentadores argentinos.</desc>
+</programme>
+<programme start="20210801230000 +0000" stop="20210802010000 +0000" channel="Elnueve.ar">
+<title lang="es" >Vivo para vos</title>
+<desc lang="es">Un programa sobre el contexto que se vive en la actualidad, donde se da información y respuestas a preguntas frecuentes.</desc>
+</programme>
+<programme start="20210729000000 +0000" stop="20210729010000 +0000" channel="LNplus.ar">
+<title lang="es" >El diario de Leuco</title>
+<desc lang="es">Sin filtros ni privilegios, se analiza la actualidad con el compromiso de siempre.</desc>
+</programme>
+<programme start="20210729010000 +0000" stop="20210729020000 +0000" channel="LNplus.ar">
+<title lang="es" >+ Voces</title>
+<desc lang="es">La investigación protagoniza un espacio dedicado a lo más urgente del panorama actual.</desc>
+</programme>
+<programme start="20210729020000 +0000" stop="20210729030000 +0000" channel="LNplus.ar">
+<title lang="es" >Somos nosotros</title>
+<desc lang="es">Análisis crítico de la actualidad en Argentina y discusiones sobre el rumbo de la economía y la política. Además, un debate sobre el futuro del país desde la óptica de periodistas especializados.</desc>
+</programme>
+<programme start="20210729030000 +0000" stop="20210729050000 +0000" channel="LNplus.ar">
+<title lang="es" >+ Info a la tarde</title>
+<desc lang="es">Con profesionalismo y lenguaje propio, se despliega información de calidad, minuto a minuto.</desc>
+</programme>
+<programme start="20210729050000 +0000" stop="20210729070000 +0000" channel="LNplus.ar">
+<title lang="es" >El noticiero</title>
+<desc lang="es">Se pone en palabras el inconsciente colectivo con un resumen de la jornada.</desc>
+</programme>
+<programme start="20210729070000 +0000" stop="20210729080000 +0000" channel="LNplus.ar">
+<title lang="es" >El diario de Leuco</title>
+<desc lang="es">Sin filtros ni privilegios, se analiza la actualidad con el compromiso de siempre.</desc>
+</programme>
+<programme start="20210729080000 +0000" stop="20210729090000 +0000" channel="LNplus.ar">
+<title lang="es" >SIGN OFF</title>
+<desc lang="es">Fin de emisión.</desc>
+</programme>
+<programme start="20210729090000 +0000" stop="20210729133000 +0000" channel="LNplus.ar">
+<title lang="es" >+ Mañana</title>
+<desc lang="es">Las noticias más urgentes para empezar el día bien informado.</desc>
+</programme>
+<programme start="20210729133000 +0000" stop="20210729160000 +0000" channel="LNplus.ar">
+<title lang="es" >+ Info</title>
+<desc lang="es">Se comparten los temas más relevantes con alcance nacional al instante.</desc>
+</programme>
+<programme start="20210729160000 +0000" stop="20210729180000 +0000" channel="LNplus.ar">
+<title lang="es" >+ Data</title>
+<desc lang="es">Se informan y analizan, de la manera más completa y confiable, los sucesos al mediodía.</desc>
+</programme>
+<programme start="20210729180000 +0000" stop="20210729200000 +0000" channel="LNplus.ar">
+<title lang="es" >+ Info a la tarde</title>
+<desc lang="es">Con profesionalismo y lenguaje propio, se despliega información de calidad, minuto a minuto.</desc>
+</programme>
+<programme start="20210729200000 +0000" stop="20210729210000 +0000" channel="LNplus.ar">
+<title lang="es" >Hora 17</title>
+<desc lang="es">Un espacio con la información más completa, presentada con claridad y responsabilidad periodística.</desc>
+</programme>
+<programme start="20210729210000 +0000" stop="20210729230000 +0000" channel="LNplus.ar">
+<title lang="es" >El noticiero</title>
+<desc lang="es">Se pone en palabras el inconsciente colectivo con un resumen de la jornada.</desc>
+</programme>
+<programme start="20210729230000 +0000" stop="20210730000000 +0000" channel="LNplus.ar">
+<title lang="es" >+ Realidad</title>
+<desc lang="es">El editorial de Jonatan Viale y los puntos de vista más jugados de la nueva generación de periodistas.</desc>
+</programme>
+<programme start="20210730000000 +0000" stop="20210730010000 +0000" channel="LNplus.ar">
+<title lang="es" >El diario de Leuco</title>
+<desc lang="es">Sin filtros ni privilegios, se analiza la actualidad con el compromiso de siempre.</desc>
+</programme>
+<programme start="20210730010000 +0000" stop="20210730020000 +0000" channel="LNplus.ar">
+<title lang="es" >+ Voces</title>
+<desc lang="es">La investigación protagoniza un espacio dedicado a lo más urgente del panorama actual.</desc>
+</programme>
+<programme start="20210730020000 +0000" stop="20210730030000 +0000" channel="LNplus.ar">
+<title lang="es" >La trama del poder</title>
+<desc lang="es">Entrevista a los personajes más influyentes de la sociedad argentina.</desc>
+</programme>
+<programme start="20210730030000 +0000" stop="20210730050000 +0000" channel="LNplus.ar">
+<title lang="es" >+ Info a la tarde</title>
+<desc lang="es">Con profesionalismo y lenguaje propio, se despliega información de calidad, minuto a minuto.</desc>
+</programme>
+<programme start="20210730050000 +0000" stop="20210730070000 +0000" channel="LNplus.ar">
+<title lang="es" >El noticiero</title>
+<desc lang="es">Se pone en palabras el inconsciente colectivo con un resumen de la jornada.</desc>
+</programme>
+<programme start="20210730070000 +0000" stop="20210730080000 +0000" channel="LNplus.ar">
+<title lang="es" >El diario de Leuco</title>
+<desc lang="es">Sin filtros ni privilegios, se analiza la actualidad con el compromiso de siempre.</desc>
+</programme>
+<programme start="20210730080000 +0000" stop="20210730090000 +0000" channel="LNplus.ar">
+<title lang="es" >+ Voces</title>
+<desc lang="es">La investigación protagoniza un espacio dedicado a lo más urgente del panorama actual.</desc>
+</programme>
+<programme start="20210730090000 +0000" stop="20210730133000 +0000" channel="LNplus.ar">
+<title lang="es" >+ Mañana</title>
+<desc lang="es">Las noticias más urgentes para empezar el día bien informado.</desc>
+</programme>
+<programme start="20210730133000 +0000" stop="20210730160000 +0000" channel="LNplus.ar">
+<title lang="es" >+ Info</title>
+<desc lang="es">Se comparten los temas más relevantes con alcance nacional al instante.</desc>
+</programme>
+<programme start="20210730160000 +0000" stop="20210730180000 +0000" channel="LNplus.ar">
+<title lang="es" >+ Data</title>
+<desc lang="es">Se informan y analizan, de la manera más completa y confiable, los sucesos al mediodía.</desc>
+</programme>
+<programme start="20210730180000 +0000" stop="20210730200000 +0000" channel="LNplus.ar">
+<title lang="es" >+ Info a la tarde</title>
+<desc lang="es">Con profesionalismo y lenguaje propio, se despliega información de calidad, minuto a minuto.</desc>
+</programme>
+<programme start="20210730200000 +0000" stop="20210730210000 +0000" channel="LNplus.ar">
+<title lang="es" >Hora 17</title>
+<desc lang="es">Un espacio con la información más completa, presentada con claridad y responsabilidad periodística.</desc>
+</programme>
+<programme start="20210730210000 +0000" stop="20210730230000 +0000" channel="LNplus.ar">
+<title lang="es" >El noticiero</title>
+<desc lang="es">Se pone en palabras el inconsciente colectivo con un resumen de la jornada.</desc>
+</programme>
+<programme start="20210730230000 +0000" stop="20210731000000 +0000" channel="LNplus.ar">
+<title lang="es" >+ Realidad</title>
+<desc lang="es">El editorial de Jonatan Viale y los puntos de vista más jugados de la nueva generación de periodistas.</desc>
+</programme>
+<programme start="20210731000000 +0000" stop="20210731010000 +0000" channel="LNplus.ar">
+<title lang="es" >Hora 21</title>
+<desc lang="es">Un programa de urgente actualidad, donde la investigación es protagonista.</desc>
+</programme>
+<programme start="20210731010000 +0000" stop="20210731020000 +0000" channel="LNplus.ar">
+<title lang="es" >+ Voces</title>
+<desc lang="es">La investigación protagoniza un espacio dedicado a lo más urgente del panorama actual.</desc>
+</programme>
+<programme start="20210731020000 +0000" stop="20210731030000 +0000" channel="LNplus.ar">
+<title lang="es" >Hablemos de otra cosa</title>
+<desc lang="es">Ciclo de entrevistas que muestra el lado desconocido de los personajes del mundo del espectáculo, la política, el deporte y la economía.</desc>
+</programme>
+<programme start="20210731030000 +0000" stop="20210731050000 +0000" channel="LNplus.ar">
+<title lang="es" >+ Info a la tarde</title>
+<desc lang="es">Con profesionalismo y lenguaje propio, se despliega información de calidad, minuto a minuto.</desc>
+</programme>
+<programme start="20210731050000 +0000" stop="20210731070000 +0000" channel="LNplus.ar">
+<title lang="es" >El noticiero</title>
+<desc lang="es">Se pone en palabras el inconsciente colectivo con un resumen de la jornada.</desc>
+</programme>
+<programme start="20210731070000 +0000" stop="20210731080000 +0000" channel="LNplus.ar">
+<title lang="es" >El diario de Leuco</title>
+<desc lang="es">Sin filtros ni privilegios, se analiza la actualidad con el compromiso de siempre.</desc>
+</programme>
+<programme start="20210731080000 +0000" stop="20210731090000 +0000" channel="LNplus.ar">
+<title lang="es" >+ Voces</title>
+<desc lang="es">La investigación protagoniza un espacio dedicado a lo más urgente del panorama actual.</desc>
+</programme>
+<programme start="20210731090000 +0000" stop="20210731100000 +0000" channel="LNplus.ar">
+<title lang="es" >Hablemos de otra cosa</title>
+<desc lang="es">Ciclo de entrevistas que muestra el lado desconocido de los personajes del mundo del espectáculo, la política, el deporte y la economía.</desc>
+</programme>
+<programme start="20210731100000 +0000" stop="20210731110000 +0000" channel="LNplus.ar">
+<title lang="es" >Hambre de futuro</title>
+<desc lang="es">Un recorrido por el país para conocer las realidades y los sueños de los niños que viven en las comunidades más vulnerables.</desc>
+</programme>
+<programme start="20210731110000 +0000" stop="20210731150000 +0000" channel="LNplus.ar">
+<title lang="es" >+Info de fin de semana</title>
+<desc lang="es">Programa que informa de manera descontracturada la actualidad del fin de semana.</desc>
+</programme>
+<programme start="20210731150000 +0000" stop="20210731163000 +0000" channel="LNplus.ar">
+<title lang="es" >+Salud</title>
+<desc lang="es">Todo lo que hay que saber en temas de salud y actualidad.</desc>
+</programme>
+<programme start="20210731163000 +0000" stop="20210731180000 +0000" channel="LNplus.ar">
+<title lang="es" >Las cosas claras</title>
+<desc lang="es">Programa que aborda los temas más importantes de la política argentina y la actualidad.</desc>
+</programme>
+<programme start="20210731180000 +0000" stop="20210731200000 +0000" channel="LNplus.ar">
+<title lang="es" >Ln+ Innovación</title>
+<desc lang="es">José del Río conversa junto a especialistas sobre la creatividad como aliada y las claves para ser líder en tiempos de cambio.</desc>
+</programme>
+<programme start="20210731200000 +0000" stop="20210731210000 +0000" channel="LNplus.ar">
+<title lang="es" >Where the Wild Men Are With Ben Fogle</title>
+<desc lang="es">Ben Fogle viaja a algunos de los lugares más salvajes y más remotos de la Tierra para explorar las vidas de las personas que viven allí.</desc>
+</programme>
+<programme start="20210731210000 +0000" stop="20210731220000 +0000" channel="LNplus.ar">
+<title lang="es" >Simon Reeve alrededor del mundo</title>
+<desc lang="es">El presentador británico ofrece una serie de documentales de viaje donde aborda la política, la economía y las problemáticas sociales de cada región.</desc>
+</programme>
+<programme start="20210731220000 +0000" stop="20210731233000 +0000" channel="LNplus.ar">
+<title lang="es" >+Salud</title>
+<desc lang="es">Todo lo que hay que saber en temas de salud y actualidad.</desc>
+</programme>
+<programme start="20210731233000 +0000" stop="20210801000000 +0000" channel="LNplus.ar">
+<title lang="es" >Casi patriotas</title>
+<desc lang="es">Un resumen irónico de los temas de la semana y un adelanto de lo que será tendencia.</desc>
+</programme>
+<programme start="20210801000000 +0000" stop="20210801010000 +0000" channel="LNplus.ar">
+<title lang="es" >Hablemos de otra cosa</title>
+<desc lang="es">Ciclo de entrevistas que muestra el lado desconocido de los personajes del mundo del espectáculo, la política, el deporte y la economía.</desc>
+</programme>
+<programme start="20210801010000 +0000" stop="20210801020000 +0000" channel="LNplus.ar">
+<title lang="es" >Hambre de futuro</title>
+<desc lang="es">Un recorrido por el país para conocer las realidades y los sueños de los niños que viven en las comunidades más vulnerables.</desc>
+</programme>
+<programme start="20210801020000 +0000" stop="20210801030000 +0000" channel="LNplus.ar">
+<title lang="es" >Simon Reeve alrededor del mundo</title>
+<desc lang="es">El presentador británico ofrece una serie de documentales de viaje donde aborda la política, la economía y las problemáticas sociales de cada región.</desc>
+</programme>
+<programme start="20210801030000 +0000" stop="20210801040000 +0000" channel="LNplus.ar">
+<title lang="es" >Where the Wild Men Are With Ben Fogle</title>
+<desc lang="es">Ben Fogle viaja a algunos de los lugares más salvajes y más remotos de la Tierra para explorar las vidas de las personas que viven allí.</desc>
+</programme>
+<programme start="20210801040000 +0000" stop="20210801050000 +0000" channel="LNplus.ar">
+<title lang="es" >Hambre de futuro</title>
+<desc lang="es">Un recorrido por el país para conocer las realidades y los sueños de los niños que viven en las comunidades más vulnerables.</desc>
+</programme>
+<programme start="20210801050000 +0000" stop="20210801060000 +0000" channel="LNplus.ar">
+<title lang="es" >Protagonistas del cambio</title>
+<desc lang="es">Una conversación con los referentes más importantes sobre medicina regenerativa, energía nuclear y agujeros negros.</desc>
+</programme>
+<programme start="20210801060000 +0000" stop="20210801070000 +0000" channel="LNplus.ar">
+<title lang="es" >Where the Wild Men Are With Ben Fogle</title>
+<desc lang="es">Ben Fogle viaja a algunos de los lugares más salvajes y más remotos de la Tierra para explorar las vidas de las personas que viven allí.</desc>
+</programme>
+<programme start="20210801070000 +0000" stop="20210801080000 +0000" channel="LNplus.ar">
+<title lang="es" >Simon Reeve alrededor del mundo</title>
+<desc lang="es">El presentador británico ofrece una serie de documentales de viaje donde aborda la política, la economía y las problemáticas sociales de cada región.</desc>
+</programme>
+<programme start="20210801080000 +0000" stop="20210801090000 +0000" channel="LNplus.ar">
+<title lang="es" >Hablemos de otra cosa</title>
+<desc lang="es">Ciclo de entrevistas que muestra el lado desconocido de los personajes del mundo del espectáculo, la política, el deporte y la economía.</desc>
+</programme>
+<programme start="20210801090000 +0000" stop="20210801110000 +0000" channel="LNplus.ar">
+<title lang="es" >Ln+ Innovación</title>
+<desc lang="es">José del Río conversa junto a especialistas sobre la creatividad como aliada y las claves para ser líder en tiempos de cambio.</desc>
+</programme>
+<programme start="20210801110000 +0000" stop="20210801150000 +0000" channel="LNplus.ar">
+<title lang="es" >+Info de fin de semana</title>
+<desc lang="es">Programa que informa de manera descontracturada la actualidad del fin de semana.</desc>
+</programme>
+<programme start="20210801150000 +0000" stop="20210801160000 +0000" channel="LNplus.ar">
+<title lang="es" >Campo</title>
+<desc lang="es">Noticias referentes al campo argentino con la conducción de Eleonora Cole.</desc>
+</programme>
+<programme start="20210801160000 +0000" stop="20210801170000 +0000" channel="LNplus.ar">
+<title lang="es" >Simon Reeve alrededor del mundo</title>
+<desc lang="es">El presentador británico ofrece una serie de documentales de viaje donde aborda la política, la economía y las problemáticas sociales de cada región.</desc>
+</programme>
+<programme start="20210801170000 +0000" stop="20210801180000 +0000" channel="LNplus.ar">
+<title lang="es" >Redes invisibles</title>
+<desc lang="es">Relatos en primera persona acerca que permiten reflexionar sobre los prejuicios, la superación y la solidaridad como motor de cambio.</desc>
+</programme>
+<programme start="20210801180000 +0000" stop="20210801190000 +0000" channel="LNplus.ar">
+<title lang="es" >Where the Wild Men Are With Ben Fogle</title>
+<desc lang="es">Ben Fogle viaja a algunos de los lugares más salvajes y más remotos de la Tierra para explorar las vidas de las personas que viven allí.</desc>
+</programme>
+<programme start="20210801190000 +0000" stop="20210801200000 +0000" channel="LNplus.ar">
+<title lang="es" >Hambre de futuro</title>
+<desc lang="es">Un recorrido por el país para conocer las realidades y los sueños de los niños que viven en las comunidades más vulnerables.</desc>
+</programme>
+<programme start="20210801200000 +0000" stop="20210801210000 +0000" channel="LNplus.ar">
+<title lang="es" >Campo</title>
+<desc lang="es">Noticias referentes al campo argentino con la conducción de Eleonora Cole.</desc>
+</programme>
+<programme start="20210801210000 +0000" stop="20210801233000 +0000" channel="LNplus.ar">
+<title lang="es" >Especial domingo</title>
+<desc lang="es">Programa de noticias y más.</desc>
+</programme>
+<programme start="20210801233000 +0000" stop="20210802010000 +0000" channel="LNplus.ar">
+<title lang="es" >La cornisa</title>
+<desc lang="es">Un programa de política y actualidad con entrevistas a los personajes más importantes del momento.</desc>
+</programme>
+<programme start="20210729000000 +0000" stop="20210729003000 +0000" channel="TyCSports.ar">
+<title lang="es" >Italy vs. Argentina</title>
+<desc lang="es">Juegos Olímpicos de Tokio 2020</desc>
+</programme>
+<programme start="20210729003000 +0000" stop="20210729010000 +0000" channel="TyCSports.ar">
+<title lang="es" >India vs. Argentina</title>
+<desc lang="es">Juegos Olímpicos de Tokio 2020</desc>
+</programme>
+<programme start="20210729010000 +0000" stop="20210729013000 +0000" channel="TyCSports.ar">
+<title lang="es" >Juegos Olímpicos Tokio 2020</title>
+<desc lang="es">Todas las actividades de la jornada, las premiaciones, entrevistas a las figuras y el seguimiento de los deportistas argentinos. El repaso de todas las competencias.</desc>
+</programme>
+<programme start="20210729013000 +0000" stop="20210729020000 +0000" channel="TyCSports.ar">
+<title lang="es" >Juegos Olímpicos de Tokio 2020</title>
+<desc lang="es">Desde Tokio, finales de 800m libre masculino, 200m pecho masculino, semifinales 100m femenino, 200m espalda masculino, final de 200m mariposa femenino.</desc>
+</programme>
+<programme start="20210729020000 +0000" stop="20210729021500 +0000" channel="TyCSports.ar">
+<title lang="es" >Juegos Olímpicos de Tokio 2020</title>
+<desc lang="es">Desde Tokio, la dupla Azaad/Caprogosso juega un nuevo partido por el Grupo D del vóleibol de playa masculino.</desc>
+</programme>
+<programme start="20210729021500 +0000" stop="20210729023000 +0000" channel="TyCSports.ar">
+<title lang="es" >Juegos Olímpicos de Tokio 2020</title>
+<desc lang="es">Desde Tokio, el boxeador argentino busca los cuartos de final ante el dominicano en la categoría medianos.</desc>
+</programme>
+<programme start="20210729023000 +0000" stop="20210729030000 +0000" channel="TyCSports.ar">
+<title lang="es" >Juegos Olímpicos Tokio 2020</title>
+<desc lang="es">Todas las actividades de la jornada, las premiaciones, entrevistas a las figuras y el seguimiento de los deportistas argentinos. El repaso de todas las competencias.</desc>
+</programme>
+<programme start="20210729030000 +0000" stop="20210729070000 +0000" channel="TyCSports.ar">
+<title lang="es" >Juegos Olímpicos Tokio 2020</title>
+<desc lang="es">Todas las actividades de la jornada, las premiaciones, entrevistas a las figuras y el seguimiento de los deportistas argentinos. El repaso de todas las competencias.</desc>
+</programme>
+<programme start="20210729070000 +0000" stop="20210729100000 +0000" channel="TyCSports.ar">
+<title lang="es" >Juegos Olímpicos Tokio 2020</title>
+<desc lang="es">Todas las actividades de la jornada, las premiaciones, entrevistas a las figuras y el seguimiento de los deportistas argentinos. El repaso de todas las competencias.</desc>
+</programme>
+<programme start="20210729100000 +0000" stop="20210729105000 +0000" channel="TyCSports.ar">
+<title lang="es" >Juegos Olímpicos de Tokio 2020</title>
+<desc lang="es">Desde Tokio, las series clasificatorias de 800m libres con la participación de la nadadora argentina en la tercera manga. Además, el inicio de las series de 100m mariposa masculino.</desc>
+</programme>
+<programme start="20210729105000 +0000" stop="20210729110000 +0000" channel="TyCSports.ar">
+<title lang="es" >Juegos Olímpicos de Tokio 2020</title>
+<desc lang="es">Desde Tokio, el nadador argentino compite en las series clasificatorias de 100m mariposa masculino.</desc>
+</programme>
+<programme start="20210729110000 +0000" stop="20210729114500 +0000" channel="TyCSports.ar">
+<title lang="es" >Juegos Olímpicos de Tokio 2020</title>
+<desc lang="es">Desde Tokio, la dupla Gallay/Pereyra buscan la primera victoria ante el puntero del Grupo C.</desc>
+</programme>
+<programme start="20210729114500 +0000" stop="20210729120000 +0000" channel="TyCSports.ar">
+<title lang="es" >Japan vs. Argentina</title>
+<desc lang="es">Juegos Olímpicos de Tokio 2020</desc>
+</programme>
+<programme start="20210729120000 +0000" stop="20210729143000 +0000" channel="TyCSports.ar">
+<title lang="es" >Spain vs. Argentina</title>
+<desc lang="es">Juegos Olímpicos de Tokio 2020</desc>
+</programme>
+<programme start="20210729143000 +0000" stop="20210729220000 +0000" channel="TyCSports.ar">
+<title lang="es" >Juegos Olímpicos Tokio 2020</title>
+<desc lang="es">Todas las actividades de la jornada, las premiaciones, entrevistas a las figuras y el seguimiento de los deportistas argentinos. El repaso de todas las competencias.</desc>
+</programme>
+<programme start="20210729220000 +0000" stop="20210730000000 +0000" channel="TyCSports.ar">
+<title lang="es" >Juegos Olímpicos Tokio 2020</title>
+<desc lang="es">Todas las actividades de la jornada, las premiaciones, entrevistas a las figuras y el seguimiento de los deportistas argentinos. El repaso de todas las competencias.</desc>
+</programme>
+<programme start="20210730000000 +0000" stop="20210730010000 +0000" channel="TyCSports.ar">
+<title lang="es" >Argentina vs. Brazil</title>
+<desc lang="es">Juegos Olímpicos de Tokio 2020</desc>
+</programme>
+<programme start="20210730010000 +0000" stop="20210730013000 +0000" channel="TyCSports.ar">
+<title lang="es" >Juegos Olímpicos de Tokio 2020</title>
+<desc lang="es">Desde Tokio, las series clasificatorias de los 800 metros femenino, el grupo B de lanzamiento de disco masculino y las series de la primera ronda de 400 metros con vallas masculino.</desc>
+</programme>
+<programme start="20210730013000 +0000" stop="20210730023000 +0000" channel="TyCSports.ar">
+<title lang="es" >Juegos Olímpicos de Tokio 2020</title>
+<desc lang="es">Desde Tokio, las semifinales de 100 metros mariposa masculino, las finales de 200 metros pecho femenino, 200 metros espalda masculino, 100 metros libre femenino y 200 metros combinado masculino.</desc>
+</programme>
+<programme start="20210730023000 +0000" stop="20210730030000 +0000" channel="TyCSports.ar">
+<title lang="es" >Juegos Olímpicos Tokio 2020</title>
+<desc lang="es">Todas las actividades de la jornada, las premiaciones, entrevistas a las figuras y el seguimiento de los deportistas argentinos. El repaso de todas las competencias.</desc>
+</programme>
+<programme start="20210730030000 +0000" stop="20210730050000 +0000" channel="TyCSports.ar">
+<title lang="es" >Juegos Olímpicos de Tokio 2020</title>
+<desc lang="es">Desde Tokio, las series de la primera ronda clasificatoria de los 100 metros femenino. Además, la clasificación de Gimnasia en trampolín y el inicio de la actividad de la Vela con Laser radial femenino.</desc>
+</programme>
+<programme start="20210730050000 +0000" stop="20210730072500 +0000" channel="TyCSports.ar">
+<title lang="es" >Juegos Olímpicos Tokio 2020</title>
+<desc lang="es">Todas las actividades de la jornada, las premiaciones, entrevistas a las figuras y el seguimiento de los deportistas argentinos. El repaso de todas las competencias.</desc>
+</programme>
+<programme start="20210730072500 +0000" stop="20210730093000 +0000" channel="TyCSports.ar">
+<title lang="es" >Argentina vs. Tunisia</title>
+<desc lang="es">Juegos Olímpicos de Tokio 2020</desc>
+</programme>
+<programme start="20210730093000 +0000" stop="20210730100000 +0000" channel="TyCSports.ar">
+<title lang="es" >Juegos Olímpicos Tokio 2020</title>
+<desc lang="es">Todas las actividades de la jornada, las premiaciones, entrevistas a las figuras y el seguimiento de los deportistas argentinos. El repaso de todas las competencias.</desc>
+</programme>
+<programme start="20210730100000 +0000" stop="20210730120000 +0000" channel="TyCSports.ar">
+<title lang="es" >Argentina vs. New Zealand</title>
+<desc lang="es">Juegos Olímpicos de Tokio 2020</desc>
+</programme>
+<programme start="20210730120000 +0000" stop="20210730124500 +0000" channel="TyCSports.ar">
+<title lang="es" >Juegos Olímpicos Tokio 2020</title>
+<desc lang="es">Todas las actividades de la jornada, las premiaciones, entrevistas a las figuras y el seguimiento de los deportistas argentinos. El repaso de todas las competencias.</desc>
+</programme>
+<programme start="20210730124500 +0000" stop="20210730143000 +0000" channel="TyCSports.ar">
+<title lang="es" >Juegos Olímpicos de Tokio 2020</title>
+<desc lang="es">Toda la acción de la XXXII edición de los Juegos Olímpicos. Desde Tokio, Japón.</desc>
+</programme>
+<programme start="20210730143000 +0000" stop="20210730220000 +0000" channel="TyCSports.ar">
+<title lang="es" >Juegos Olímpicos Tokio 2020</title>
+<desc lang="es">Todas las actividades de la jornada, las premiaciones, entrevistas a las figuras y el seguimiento de los deportistas argentinos. El repaso de todas las competencias.</desc>
+</programme>
+<programme start="20210730220000 +0000" stop="20210731030000 +0000" channel="TyCSports.ar">
+<title lang="es" >Juegos Olímpicos Tokio 2020</title>
+<desc lang="es">Todas las actividades de la jornada, las premiaciones, entrevistas a las figuras y el seguimiento de los deportistas argentinos. El repaso de todas las competencias.</desc>
+</programme>
+<programme start="20210731030000 +0000" stop="20210731070000 +0000" channel="TyCSports.ar">
+<title lang="es" >Juegos Olímpicos Tokio 2020</title>
+<desc lang="es">Todas las actividades de la jornada, las premiaciones, entrevistas a las figuras y el seguimiento de los deportistas argentinos. El repaso de todas las competencias.</desc>
+</programme>
+<programme start="20210731070000 +0000" stop="20210731110000 +0000" channel="TyCSports.ar">
+<title lang="es" >Juegos Olímpicos Tokio 2020</title>
+<desc lang="es">Todas las actividades de la jornada, las premiaciones, entrevistas a las figuras y el seguimiento de los deportistas argentinos. El repaso de todas las competencias.</desc>
+</programme>
+<programme start="20210731110000 +0000" stop="20210731130000 +0000" channel="TyCSports.ar">
+<title lang="es" >Juegos Olímpicos Tokio 2020</title>
+<desc lang="es">Todas las actividades de la jornada, las premiaciones, entrevistas a las figuras y el seguimiento de los deportistas argentinos. El repaso de todas las competencias.</desc>
+</programme>
+<programme start="20210731130000 +0000" stop="20210731160000 +0000" channel="TyCSports.ar">
+<title lang="es" >Juegos Olímpicos Tokio 2020</title>
+<desc lang="es">Todas las actividades de la jornada, las premiaciones, entrevistas a las figuras y el seguimiento de los deportistas argentinos. El repaso de todas las competencias.</desc>
+</programme>
+<programme start="20210731160000 +0000" stop="20210731220000 +0000" channel="TyCSports.ar">
+<title lang="es" >Juegos Olímpicos Tokio 2020</title>
+<desc lang="es">Todas las actividades de la jornada, las premiaciones, entrevistas a las figuras y el seguimiento de los deportistas argentinos. El repaso de todas las competencias.</desc>
+</programme>
+<programme start="20210731220000 +0000" stop="20210801010000 +0000" channel="TyCSports.ar">
+<title lang="es" >Juegos Olímpicos Tokio 2020</title>
+<desc lang="es">Todas las actividades de la jornada, las premiaciones, entrevistas a las figuras y el seguimiento de los deportistas argentinos. El repaso de todas las competencias.</desc>
+</programme>
+<programme start="20210801010000 +0000" stop="20210801040000 +0000" channel="TyCSports.ar">
+<title lang="es" >Juegos Olímpicos Tokio 2020</title>
+<desc lang="es">Todas las actividades de la jornada, las premiaciones, entrevistas a las figuras y el seguimiento de los deportistas argentinos. El repaso de todas las competencias.</desc>
+</programme>
+<programme start="20210801040000 +0000" stop="20210801070000 +0000" channel="TyCSports.ar">
+<title lang="es" >Juegos Olímpicos Tokio 2020</title>
+<desc lang="es">Todas las actividades de la jornada, las premiaciones, entrevistas a las figuras y el seguimiento de los deportistas argentinos. El repaso de todas las competencias.</desc>
+</programme>
+<programme start="20210801070000 +0000" stop="20210801110000 +0000" channel="TyCSports.ar">
+<title lang="es" >Juegos Olímpicos Tokio 2020</title>
+<desc lang="es">Todas las actividades de la jornada, las premiaciones, entrevistas a las figuras y el seguimiento de los deportistas argentinos. El repaso de todas las competencias.</desc>
+</programme>
+<programme start="20210801110000 +0000" stop="20210801130000 +0000" channel="TyCSports.ar">
+<title lang="es" >Juegos Olímpicos Tokio 2020</title>
+<desc lang="es">Todas las actividades de la jornada, las premiaciones, entrevistas a las figuras y el seguimiento de los deportistas argentinos. El repaso de todas las competencias.</desc>
+</programme>
+<programme start="20210801130000 +0000" stop="20210801160000 +0000" channel="TyCSports.ar">
+<title lang="es" >Juegos Olímpicos Tokio 2020</title>
+<desc lang="es">Todas las actividades de la jornada, las premiaciones, entrevistas a las figuras y el seguimiento de los deportistas argentinos. El repaso de todas las competencias.</desc>
+</programme>
+<programme start="20210801160000 +0000" stop="20210801220000 +0000" channel="TyCSports.ar">
+<title lang="es" >Juegos Olímpicos Tokio 2020</title>
+<desc lang="es">Todas las actividades de la jornada, las premiaciones, entrevistas a las figuras y el seguimiento de los deportistas argentinos. El repaso de todas las competencias.</desc>
+</programme>
+<programme start="20210801220000 +0000" stop="20210802010000 +0000" channel="TyCSports.ar">
+<title lang="es" >Juegos Olímpicos Tokio 2020</title>
+<desc lang="es">Todas las actividades de la jornada, las premiaciones, entrevistas a las figuras y el seguimiento de los deportistas argentinos. El repaso de todas las competencias.</desc>
+</programme>
+</tv>
